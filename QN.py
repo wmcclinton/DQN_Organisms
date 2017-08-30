@@ -24,7 +24,6 @@ class QN(object):
         self.env = self.env.unwrapped
         self.N_STATES = 4
         self.L1_NODES = 10
-        self.L2_NODES = 10
         self.N_ACTIONS = 2
         self.MEMORY = []     # initialize memory
 
@@ -38,19 +37,15 @@ class QN(object):
         self.keep_prob = tf.placeholder(tf.float32)
 
         self.eval_weights = {'W_fc1':tf.Variable(tf.random_normal([self.N_STATES,self.L1_NODES])),
-                    'W_fc2':tf.Variable(tf.random_normal([self.L1_NODES,self.L2_NODES])),
-                    'out':tf.Variable(tf.random_normal([self.L2_NODES, self.N_ACTIONS]))}
+                    'out':tf.Variable(tf.random_normal([self.L1_NODES, self.N_ACTIONS]))}
 
         self.eval_biases = {'b_fc1':tf.Variable(tf.random_normal([self.L1_NODES])),
-                    'b_fc2':tf.Variable(tf.random_normal([self.L2_NODES])),
                     'out':tf.Variable(tf.random_normal([self.N_ACTIONS]))}
 
         self.target_weights = {'W_fc1':tf.Variable(tf.random_normal([self.N_STATES,self.L1_NODES])),
-                    'W_fc2':tf.Variable(tf.random_normal([self.L1_NODES,self.L2_NODES])),
-                    'out':tf.Variable(tf.random_normal([self.L2_NODES, self.N_ACTIONS]))}
+                    'out':tf.Variable(tf.random_normal([self.L1_NODES, self.N_ACTIONS]))}
 
         self.target_biases = {'b_fc1':tf.Variable(tf.random_normal([self.L1_NODES])),
-                    'b_fc2':tf.Variable(tf.random_normal([self.L2_NODES])),
                     'out':tf.Variable(tf.random_normal([self.N_ACTIONS]))}
 
         self.e_pred = self.DQN_eval(self.x)
@@ -64,20 +59,18 @@ class QN(object):
     def DQN_eval(self,x):
         x = tf.reshape(x, shape=[-1, self.N_STATES])
 
-        fc1 = tf.nn.sigmoid(tf.matmul(x, self.eval_weights['W_fc1']) + self.eval_biases['b_fc1'])
-        fc2 = tf.nn.sigmoid(tf.matmul(fc1, self.eval_weights['W_fc2']) + self.eval_biases['b_fc2'])
+        fc1 = tf.nn.relu(tf.matmul(x, self.eval_weights['W_fc1']) + self.eval_biases['b_fc1'])
 
-        output = tf.matmul(fc2, self.eval_weights['out']) + self.eval_biases['out']
+        output = tf.matmul(fc1, self.eval_weights['out']) + self.eval_biases['out']
 
         return output
 
     def DQN_target(self,x):
         x = tf.reshape(x, shape=[-1, self.N_STATES])
 
-        fc1 = tf.nn.sigmoid(tf.matmul(x, self.eval_weights['W_fc1']) + self.eval_biases['b_fc1'])
-        fc2 = tf.nn.sigmoid(tf.matmul(fc1, self.eval_weights['W_fc2']) + self.eval_biases['b_fc2'])
+        fc1 = tf.nn.relu(tf.matmul(x, self.eval_weights['W_fc1']) + self.eval_biases['b_fc1'])
 
-        output = tf.matmul(fc2, self.eval_weights['out']) + self.eval_biases['out']
+        output = tf.matmul(fc1, self.eval_weights['out']) + self.eval_biases['out']
 
         return output
 
