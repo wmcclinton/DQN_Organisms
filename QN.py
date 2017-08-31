@@ -14,7 +14,9 @@ class QN(object):
         # Hyper Parameters
         self.BATCH_SIZE = 32
         self.LR = 0.01                   # learning rate
-        self.EPSILON = 0.9               # greedy policy
+        self.EPSILON_M = 0.9              # greedy policy
+        self.EPSILON_I = 0.001
+        self.EPSILON = 0 if self.EPSILON_I is not None else self.EPSILON_M 
         self.GAMMA = 0.9                 # reward discount
         self.TARGET_REPLACE_ITER = 100  # target update frequency
         self.MEMORY_CAPACITY = 2000
@@ -27,6 +29,8 @@ class QN(object):
         self.N_ACTIONS = 2
         self.MEMORY = []     # initialize memory
 
+        # total learning step
+        self.learn_step_counter = 0
         ########################
 
         self.x = tf.placeholder('float', [None, self.N_STATES])
@@ -88,7 +92,7 @@ class QN(object):
 
     def choose_action(self,s):
         state = [np.array([s]).flatten()]
-        if np.random.uniform() <= self.EPSILON:
+        if np.random.uniform() < self.EPSILON:
             actions_value = self.sess.run(self.e_pred,feed_dict={self.x: state})
             action = np.argmax(actions_value[0])
         else:
@@ -106,7 +110,10 @@ class QN(object):
 
             Rmax = MEM[2] + self.GAMMA * np.argmax(Qvals[0])
             new_target[0][MEM[1]] = Rmax
-            self.sess.run(self.optimizer,feed_dict={self.x: s1, self.target: new_target, self.keep_prob: 0.8})
+            self.sess.run([self.optimizer,self.cost],feed_dict={self.x: s1, self.target: new_target, self.keep_prob: 0.8})
+
+        self.EPSILON = self.EPSILON + self.EPSILON_I if self.EPSILON < self.EPSILON_M else self.EPSILON_M
+        self.learn_step_counter += 1
 
     def remember(self, mem):
         if len(self.MEMORY) < self.MEMORY_CAPACITY:

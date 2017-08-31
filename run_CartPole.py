@@ -25,18 +25,25 @@ RL = DeepQNetwork(n_actions=env.action_space.n,
 
 total_steps = 0
 
+file = open('run_CartPole.txt','w') 
+ 
+file.write('Run Data:\n') 
 
-for i_episode in range(100):
+for i_episode in range(200):
 
     observation = env.reset()
     ep_r = 0
+    t = 0
     while True:
+        t = t + 1
         env.render()
 
         action = RL.choose_action(observation)
 
         observation_, reward, done, info = env.step(action)
-
+        print("Obs: ",observation_)
+        print("Reward: ",reward)
+        print("action: ",action)
         # the smaller theta and closer to center the better
         x, x_dot, theta, theta_dot = observation_
         r1 = (env.x_threshold - abs(x))/env.x_threshold - 0.8
@@ -51,11 +58,13 @@ for i_episode in range(100):
 
         if done:
             print('episode: ', i_episode,
-                  'ep_r: ', round(ep_r, 2),
+                  'Score: ', round(ep_r, 2),
                   ' epsilon: ', round(RL.epsilon, 2))
+            file.write('episode: {} ep_r: {} epsilon: {} '.format(i_episode,round(ep_r,2),round(RL.epsilon,2)))
+            file.write('timesteps: {}\n'.format(t))
             break
 
         observation = observation_
         total_steps += 1
 
-RL.plot_cost()
+file.close() 

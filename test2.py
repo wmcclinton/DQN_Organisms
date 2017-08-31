@@ -12,6 +12,12 @@ if(status == "load"):
     agent.saver.restore(agent.sess, "save/model.ckpt")
     print("Model restored")
 
+total_steps = 0
+
+file = open('test2.txt','w') 
+ 
+file.write('Run Data:\n')
+
 for i_episode in range(agent.RUN_TIME):
     observation = agent.env.reset()
     t = 0
@@ -35,21 +41,31 @@ for i_episode in range(agent.RUN_TIME):
             print("Run {} - Episode finished after {} timesteps".format(i_episode,t+1))
             sum += t+1
             print("Score: ", score)
+            file.write("Run {} - Episode finished after {} timesteps\n".format(i_episode,t+1))
+            file.write("Score: {}\n".format(score))
+            print("Epsilon: ", agent.EPSILON, "\n")
             break
+    
+        if total_steps > 1000:
+            agent.train()
 
-    agent.train()
-
-    if i_episode % agent.TARGET_REPLACE_ITER == 0:
-        print("Updating Weights")
-        agent.update_weights()
-        agent.saver.save(agent.sess, "save/model.ckpt")
-        print("Model saved")
+            if i_episode % agent.TARGET_REPLACE_ITER == 0:
+                print("Updating Weights")
+                file.write("Updating Weights")
+                agent.update_weights()
+                agent.saver.save(agent.sess, "save/model.ckpt")
+                print("Model saved")
+                file.write("Model saved")
 
     if i_episode % 100 == 0:
-        ydata.append(sum/100)
-        sum = 0
-        plt.close()
-        plt.plot(range(0, int(i_episode/100) + 1),ydata)
-        plt.ylabel('Steps')
-        plt.xlabel('Times')
-        plt.show(block=False)
+            ydata.append(sum/100)
+            sum = 0
+            plt.close()
+            plt.plot(range(0, int(i_episode/100) + 1),ydata)
+            plt.ylabel('Steps')
+            plt.xlabel('Times')
+            plt.show(block=False)
+
+    total_steps += 1
+
+file.close() 

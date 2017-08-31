@@ -1,0 +1,2573 @@
+Run Data:
+Run 0 - Episode finished after 18 timesteps
+Score: 3.81087414010566
+Run 1 - Episode finished after 22 timesteps
+Score: 6.751048072887597
+Run 2 - Episode finished after 18 timesteps
+Score: 2.0174583832730217
+Run 3 - Episode finished after 12 timesteps
+Score: 3.092637206379412
+Run 4 - Episode finished after 31 timesteps
+Score: 9.048479261156448
+Run 5 - Episode finished after 20 timesteps
+Score: 3.431073949971435
+Run 6 - Episode finished after 26 timesteps
+Score: 7.684415692090711
+Run 7 - Episode finished after 49 timesteps
+Score: 18.051261865449277
+Run 8 - Episode finished after 14 timesteps
+Score: 2.4693025316047494
+Run 9 - Episode finished after 26 timesteps
+Score: 10.52756428631614
+Run 10 - Episode finished after 57 timesteps
+Score: 26.896423741924966
+Run 11 - Episode finished after 18 timesteps
+Score: 2.733129677301863
+Run 12 - Episode finished after 27 timesteps
+Score: 12.075762899510378
+Run 13 - Episode finished after 30 timesteps
+Score: 8.63672902783315
+Run 14 - Episode finished after 19 timesteps
+Score: 4.145574435428517
+Run 15 - Episode finished after 15 timesteps
+Score: 3.2972386625041548
+Run 16 - Episode finished after 23 timesteps
+Score: 5.825798900976453
+Run 17 - Episode finished after 21 timesteps
+Score: 5.980369023574316
+Run 18 - Episode finished after 31 timesteps
+Score: 6.636589773608884
+Run 19 - Episode finished after 15 timesteps
+Score: 1.8851630401949564
+Run 20 - Episode finished after 42 timesteps
+Score: 17.162060579278428
+Run 21 - Episode finished after 12 timesteps
+Score: 1.0837824028605696
+Run 22 - Episode finished after 16 timesteps
+Score: 4.147502686379967
+Run 23 - Episode finished after 19 timesteps
+Score: 4.632570329856059
+Run 24 - Episode finished after 18 timesteps
+Score: 2.2217288475371344
+Run 25 - Episode finished after 18 timesteps
+Score: 4.097071836999005
+Run 26 - Episode finished after 21 timesteps
+Score: 1.0331411148555532
+Run 27 - Episode finished after 44 timesteps
+Score: 17.91217387505156
+Run 28 - Episode finished after 22 timesteps
+Score: 5.216696375169737
+Run 29 - Episode finished after 13 timesteps
+Score: 2.8980468381655196
+Run 30 - Episode finished after 13 timesteps
+Score: 3.1524998041860646
+Run 31 - Episode finished after 28 timesteps
+Score: 7.502692214771184
+Run 32 - Episode finished after 21 timesteps
+Score: 7.0845440343251385
+Run 33 - Episode finished after 21 timesteps
+Score: 8.749904589439051
+Run 34 - Episode finished after 18 timesteps
+Score: 6.689358083927048
+Run 35 - Episode finished after 25 timesteps
+Score: 7.89945468938236
+Run 36 - Episode finished after 13 timesteps
+Score: 1.4716221599699582
+Run 37 - Episode finished after 23 timesteps
+Score: 9.170318880939474
+Run 38 - Episode finished after 21 timesteps
+Score: 3.494418767825176
+Run 39 - Episode finished after 25 timesteps
+Score: 7.512038290969327
+Run 40 - Episode finished after 17 timesteps
+Score: 3.892129954247756
+Run 41 - Episode finished after 17 timesteps
+Score: 4.699428818673541
+Run 42 - Episode finished after 100 timesteps
+Score: 12.505464493401753
+Run 43 - Episode finished after 41 timesteps
+Score: 13.092026547150786
+Run 44 - Episode finished after 18 timesteps
+Score: 3.034630821899286
+Run 45 - Episode finished after 23 timesteps
+Score: 2.81021835929636
+Run 46 - Episode finished after 15 timesteps
+Score: 3.5032751282481494
+Run 47 - Episode finished after 17 timesteps
+Score: 5.734505478665635
+Run 48 - Episode finished after 14 timesteps
+Score: 1.8950277091031578
+Run 49 - Episode finished after 24 timesteps
+Score: 8.51636578526789
+Run 50 - Episode finished after 32 timesteps
+Score: 13.763943306261387
+Run 51 - Episode finished after 47 timesteps
+Score: 17.477589203916963
+Run 52 - Episode finished after 32 timesteps
+Score: 11.499599630669785
+Run 53 - Episode finished after 9 timesteps
+Score: 1.1399706574318988
+Run 54 - Episode finished after 23 timesteps
+Score: 8.663953966116798
+Run 55 - Episode finished after 17 timesteps
+Score: 4.909792278156122
+Run 56 - Episode finished after 41 timesteps
+Score: 15.821202458227523
+Run 57 - Episode finished after 13 timesteps
+Score: 3.009155974535934
+Run 58 - Episode finished after 27 timesteps
+Score: 11.482312489050374
+Run 59 - Episode finished after 13 timesteps
+Score: 3.2519785206840384
+Run 60 - Episode finished after 10 timesteps
+Score: 2.318242616190063
+Run 61 - Episode finished after 12 timesteps
+Score: 3.2057098252876823
+Run 62 - Episode finished after 21 timesteps
+Score: 4.850239516196255
+Run 63 - Episode finished after 14 timesteps
+Score: 1.7284631135903072
+Run 64 - Episode finished after 18 timesteps
+Score: 1.794356974285944
+Run 65 - Episode finished after 16 timesteps
+Score: 3.6513406977705167
+Run 66 - Episode finished after 23 timesteps
+Score: 5.677415042603456
+Run 67 - Episode finished after 14 timesteps
+Score: 4.074244264186543
+Run 68 - Episode finished after 29 timesteps
+Score: 8.099030144235162
+Run 69 - Episode finished after 14 timesteps
+Score: 0.9134931952220015
+Run 70 - Episode finished after 17 timesteps
+Score: 4.732887184042686
+Run 71 - Episode finished after 39 timesteps
+Score: 11.29235749992784
+Run 72 - Episode finished after 29 timesteps
+Score: 13.436704178703804
+Run 73 - Episode finished after 30 timesteps
+Score: 2.6131114328604115
+Run 74 - Episode finished after 12 timesteps
+Score: 1.2540303891492293
+Run 75 - Episode finished after 13 timesteps
+Score: 2.607473018680941
+Run 76 - Episode finished after 14 timesteps
+Score: 3.3391118763447
+Run 77 - Episode finished after 19 timesteps
+Score: 6.118456508783097
+Run 78 - Episode finished after 19 timesteps
+Score: 6.082829970381952
+Run 79 - Episode finished after 39 timesteps
+Score: 17.22452054600245
+Run 80 - Episode finished after 37 timesteps
+Score: 13.475729078665427
+Run 81 - Episode finished after 29 timesteps
+Score: 9.485809519692253
+Run 82 - Episode finished after 29 timesteps
+Score: 4.245604506429643
+Run 83 - Episode finished after 12 timesteps
+Score: 0.6497371450189982
+Run 84 - Episode finished after 17 timesteps
+Score: 2.2356776939257452
+Run 85 - Episode finished after 59 timesteps
+Score: 21.61560366544174
+Run 86 - Episode finished after 13 timesteps
+Score: 2.8132557563536458
+Run 87 - Episode finished after 26 timesteps
+Score: 7.921667717974198
+Run 88 - Episode finished after 15 timesteps
+Score: 2.680069891911838
+Run 89 - Episode finished after 22 timesteps
+Score: 6.130044612261649
+Run 90 - Episode finished after 25 timesteps
+Score: 10.007129981035384
+Run 91 - Episode finished after 21 timesteps
+Score: 5.722850715459439
+Run 92 - Episode finished after 13 timesteps
+Score: 3.0931390620863377
+Run 93 - Episode finished after 13 timesteps
+Score: 3.9141997811673503
+Run 94 - Episode finished after 17 timesteps
+Score: 0.6471881809119316
+Run 95 - Episode finished after 29 timesteps
+Score: 5.746167551488622
+Run 96 - Episode finished after 31 timesteps
+Score: 11.362990889224374
+Run 97 - Episode finished after 20 timesteps
+Score: 4.594895810043006
+Run 98 - Episode finished after 16 timesteps
+Score: 5.336981944510767
+Run 99 - Episode finished after 16 timesteps
+Score: 3.0330534103599427
+Run 100 - Episode finished after 40 timesteps
+Score: 15.34086504577504
+Run 101 - Episode finished after 27 timesteps
+Score: 9.277014750776909
+Run 102 - Episode finished after 14 timesteps
+Score: 4.156907888884502
+Run 103 - Episode finished after 18 timesteps
+Score: 5.8910959751274214
+Run 104 - Episode finished after 19 timesteps
+Score: 3.631990010964846
+Run 105 - Episode finished after 16 timesteps
+Score: 3.5278444372582003
+Run 106 - Episode finished after 23 timesteps
+Score: 8.08348319710867
+Run 107 - Episode finished after 22 timesteps
+Score: 5.327336722197007
+Run 108 - Episode finished after 16 timesteps
+Score: 2.6919248182080993
+Run 109 - Episode finished after 16 timesteps
+Score: 5.175100501317038
+Run 110 - Episode finished after 17 timesteps
+Score: 3.6761714972183754
+Run 111 - Episode finished after 32 timesteps
+Score: 11.788243849699638
+Run 112 - Episode finished after 14 timesteps
+Score: 2.791118723102576
+Run 113 - Episode finished after 24 timesteps
+Score: 8.988367862890046
+Run 114 - Episode finished after 41 timesteps
+Score: 15.327919801428557
+Run 115 - Episode finished after 12 timesteps
+Score: 3.0462568060235165
+Run 116 - Episode finished after 26 timesteps
+Score: 7.483118221028013
+Run 117 - Episode finished after 15 timesteps
+Score: 3.259568448010663
+Run 118 - Episode finished after 25 timesteps
+Score: 7.3785449002768715
+Run 119 - Episode finished after 16 timesteps
+Score: 5.085982827351419
+Run 120 - Episode finished after 11 timesteps
+Score: 1.7033553959673204
+Run 121 - Episode finished after 18 timesteps
+Score: 4.70769782437291
+Run 122 - Episode finished after 24 timesteps
+Score: 8.496918527341919
+Run 123 - Episode finished after 16 timesteps
+Score: 4.018363130689309
+Run 124 - Episode finished after 16 timesteps
+Score: 4.945190779785069
+Run 125 - Episode finished after 18 timesteps
+Score: 3.9489589194148498
+Run 126 - Episode finished after 21 timesteps
+Score: 6.62535756916578
+Run 127 - Episode finished after 17 timesteps
+Score: 4.889050805319915
+Run 128 - Episode finished after 24 timesteps
+Score: 4.743980384996691
+Run 129 - Episode finished after 15 timesteps
+Score: 3.191201347047393
+Run 130 - Episode finished after 16 timesteps
+Score: 3.1852011425411177
+Run 131 - Episode finished after 18 timesteps
+Score: 5.961385283457741
+Run 132 - Episode finished after 36 timesteps
+Score: 12.215964888218398
+Run 133 - Episode finished after 23 timesteps
+Score: 8.187477998807697
+Run 134 - Episode finished after 15 timesteps
+Score: 4.750311270861096
+Run 135 - Episode finished after 12 timesteps
+Score: 2.9668261064411197
+Run 136 - Episode finished after 16 timesteps
+Score: 3.0792830411765917
+Run 137 - Episode finished after 17 timesteps
+Score: 4.8422532648130545
+Run 138 - Episode finished after 37 timesteps
+Score: 7.349715696728346
+Run 139 - Episode finished after 35 timesteps
+Score: 14.988659368219757
+Run 140 - Episode finished after 12 timesteps
+Score: 2.220516365291952
+Run 141 - Episode finished after 18 timesteps
+Score: 1.789093711063286
+Run 142 - Episode finished after 13 timesteps
+Score: 3.4345731167381985
+Run 143 - Episode finished after 12 timesteps
+Score: 1.8169942567974553
+Run 144 - Episode finished after 15 timesteps
+Score: 3.5591789573002877
+Run 145 - Episode finished after 32 timesteps
+Score: 11.790749482927742
+Run 146 - Episode finished after 14 timesteps
+Score: 2.4317784121988417
+Run 147 - Episode finished after 19 timesteps
+Score: 6.09869470466689
+Run 148 - Episode finished after 27 timesteps
+Score: 8.19602717837272
+Run 149 - Episode finished after 15 timesteps
+Score: 2.942579439171264
+Run 150 - Episode finished after 20 timesteps
+Score: 3.707599000353933
+Run 151 - Episode finished after 28 timesteps
+Score: 9.452836190530201
+Run 152 - Episode finished after 25 timesteps
+Score: 4.397797854080155
+Run 153 - Episode finished after 15 timesteps
+Score: 3.042487646268973
+Run 154 - Episode finished after 24 timesteps
+Score: 7.589377470169931
+Run 155 - Episode finished after 42 timesteps
+Score: 11.078048876066227
+Run 156 - Episode finished after 36 timesteps
+Score: 12.11757155182471
+Run 157 - Episode finished after 12 timesteps
+Score: 2.4580788871365726
+Run 158 - Episode finished after 12 timesteps
+Score: 1.569138864626932
+Run 159 - Episode finished after 25 timesteps
+Score: 8.932760074353816
+Run 160 - Episode finished after 50 timesteps
+Score: 10.43333139153432
+Run 161 - Episode finished after 20 timesteps
+Score: 5.7528817202198175
+Run 162 - Episode finished after 24 timesteps
+Score: -0.15762813985787638
+Run 163 - Episode finished after 16 timesteps
+Score: 3.676333137508532
+Run 164 - Episode finished after 15 timesteps
+Score: 1.8327564997953734
+Run 165 - Episode finished after 14 timesteps
+Score: 2.729933092797456
+Run 166 - Episode finished after 20 timesteps
+Score: 3.0777673115456023
+Run 167 - Episode finished after 38 timesteps
+Score: 11.264995009163892
+Run 168 - Episode finished after 21 timesteps
+Score: 3.8123597697266627
+Run 169 - Episode finished after 31 timesteps
+Score: 8.83308728961531
+Run 170 - Episode finished after 28 timesteps
+Score: 8.40379195774957
+Run 171 - Episode finished after 18 timesteps
+Score: 3.8484125135423706
+Run 172 - Episode finished after 12 timesteps
+Score: 3.0270875227948957
+Run 173 - Episode finished after 13 timesteps
+Score: 3.1271979800554632
+Run 174 - Episode finished after 21 timesteps
+Score: 7.273086111325762
+Run 175 - Episode finished after 17 timesteps
+Score: 2.507138918009751
+Run 176 - Episode finished after 25 timesteps
+Score: 2.2842131780668242
+Run 177 - Episode finished after 29 timesteps
+Score: 9.526724301413669
+Run 178 - Episode finished after 12 timesteps
+Score: 2.662381169786947
+Run 179 - Episode finished after 13 timesteps
+Score: 3.7211438163924795
+Run 180 - Episode finished after 17 timesteps
+Score: 5.565635834354877
+Run 181 - Episode finished after 39 timesteps
+Score: 13.296107709667858
+Run 182 - Episode finished after 13 timesteps
+Score: 1.6548399513321974
+Run 183 - Episode finished after 23 timesteps
+Score: 4.11501579822266
+Run 184 - Episode finished after 44 timesteps
+Score: 14.23578728161969
+Run 185 - Episode finished after 21 timesteps
+Score: 6.650478810945201
+Run 186 - Episode finished after 17 timesteps
+Score: 5.528680237790458
+Run 187 - Episode finished after 11 timesteps
+Score: 1.7165499583297965
+Run 188 - Episode finished after 27 timesteps
+Score: 6.424581740184291
+Run 189 - Episode finished after 11 timesteps
+Score: 2.345032506802348
+Run 190 - Episode finished after 26 timesteps
+Score: 7.554386807938632
+Run 191 - Episode finished after 14 timesteps
+Score: 1.7842114448370063
+Run 192 - Episode finished after 23 timesteps
+Score: 4.1479468030706235
+Run 193 - Episode finished after 34 timesteps
+Score: 13.675304169672405
+Run 194 - Episode finished after 14 timesteps
+Score: 3.3690703261407435
+Run 195 - Episode finished after 18 timesteps
+Score: 5.842172322700451
+Run 196 - Episode finished after 22 timesteps
+Score: 7.780204300122428
+Run 197 - Episode finished after 32 timesteps
+Score: 11.777041842660992
+Run 198 - Episode finished after 25 timesteps
+Score: 10.06782406472506
+Run 199 - Episode finished after 14 timesteps
+Score: 2.728488610038099
+Run 200 - Episode finished after 30 timesteps
+Score: 10.133405032485197
+Run 201 - Episode finished after 19 timesteps
+Score: 5.83035333024898
+Run 202 - Episode finished after 60 timesteps
+Score: 15.028042690463439
+Run 203 - Episode finished after 25 timesteps
+Score: 9.2745616077763
+Run 204 - Episode finished after 34 timesteps
+Score: 0.4435677104804264
+Run 205 - Episode finished after 17 timesteps
+Score: 2.0292189116521815
+Run 206 - Episode finished after 23 timesteps
+Score: 9.946217816135022
+Run 207 - Episode finished after 24 timesteps
+Score: 3.0591304096098675
+Run 208 - Episode finished after 13 timesteps
+Score: 2.821653071060585
+Run 209 - Episode finished after 23 timesteps
+Score: 2.6274028256711284
+Run 210 - Episode finished after 20 timesteps
+Score: 4.946337208810796
+Run 211 - Episode finished after 29 timesteps
+Score: 6.1487781969370765
+Run 212 - Episode finished after 29 timesteps
+Score: 7.087232780780856
+Run 213 - Episode finished after 20 timesteps
+Score: 3.96870708440653
+Run 214 - Episode finished after 21 timesteps
+Score: 6.002909630812262
+Run 215 - Episode finished after 13 timesteps
+Score: 2.5676124122123483
+Run 216 - Episode finished after 24 timesteps
+Score: 5.906172322957435
+Run 217 - Episode finished after 18 timesteps
+Score: 5.865308496119878
+Run 218 - Episode finished after 48 timesteps
+Score: 14.247708850910916
+Run 219 - Episode finished after 47 timesteps
+Score: 12.898808168562152
+Run 220 - Episode finished after 26 timesteps
+Score: 8.28316898532685
+Run 221 - Episode finished after 33 timesteps
+Score: 10.36936392630685
+Run 222 - Episode finished after 38 timesteps
+Score: 12.729363087171318
+Run 223 - Episode finished after 16 timesteps
+Score: 3.3574921506921642
+Run 224 - Episode finished after 15 timesteps
+Score: 4.775303334538513
+Run 225 - Episode finished after 15 timesteps
+Score: 0.9697348536072872
+Run 226 - Episode finished after 32 timesteps
+Score: 12.040002898811556
+Run 227 - Episode finished after 24 timesteps
+Score: 7.315338544177859
+Run 228 - Episode finished after 34 timesteps
+Score: 9.114346099684747
+Run 229 - Episode finished after 14 timesteps
+Score: 1.637933228249984
+Run 230 - Episode finished after 12 timesteps
+Score: 2.2761330434043896
+Run 231 - Episode finished after 12 timesteps
+Score: 3.3295378140387184
+Run 232 - Episode finished after 12 timesteps
+Score: 1.2264751330746193
+Run 233 - Episode finished after 17 timesteps
+Score: 4.692105690251058
+Run 234 - Episode finished after 15 timesteps
+Score: 3.384312832738229
+Run 235 - Episode finished after 59 timesteps
+Score: 6.5663629544952515
+Run 236 - Episode finished after 14 timesteps
+Score: 2.5428295468831883
+Run 237 - Episode finished after 19 timesteps
+Score: 6.046919280653248
+Run 238 - Episode finished after 11 timesteps
+Score: 1.806473133339919
+Run 239 - Episode finished after 14 timesteps
+Score: 3.3281299686590224
+Run 240 - Episode finished after 17 timesteps
+Score: 5.44839523015489
+Run 241 - Episode finished after 20 timesteps
+Score: 5.601317735500851
+Run 242 - Episode finished after 12 timesteps
+Score: 2.0662431045739647
+Run 243 - Episode finished after 22 timesteps
+Score: 8.97665872827976
+Run 244 - Episode finished after 33 timesteps
+Score: 14.58068873810464
+Run 245 - Episode finished after 21 timesteps
+Score: 4.812573441258647
+Run 246 - Episode finished after 21 timesteps
+Score: 1.1446525342904517
+Run 247 - Episode finished after 14 timesteps
+Score: 4.142058124405524
+Run 248 - Episode finished after 18 timesteps
+Score: 7.261775072488398
+Run 249 - Episode finished after 15 timesteps
+Score: 4.4710401675303135
+Run 250 - Episode finished after 13 timesteps
+Score: 1.4490145980937883
+Run 251 - Episode finished after 15 timesteps
+Score: 2.166010194068667
+Run 252 - Episode finished after 14 timesteps
+Score: 2.998185495772313
+Run 253 - Episode finished after 30 timesteps
+Score: 10.152161925319996
+Run 254 - Episode finished after 25 timesteps
+Score: 8.959123720183825
+Run 255 - Episode finished after 33 timesteps
+Score: 10.722844399614704
+Run 256 - Episode finished after 27 timesteps
+Score: 4.12870734334713
+Run 257 - Episode finished after 14 timesteps
+Score: 3.853078945480946
+Run 258 - Episode finished after 18 timesteps
+Score: 6.107494115661902
+Run 259 - Episode finished after 22 timesteps
+Score: 5.023191389826758
+Run 260 - Episode finished after 16 timesteps
+Score: 4.513774457405515
+Run 261 - Episode finished after 34 timesteps
+Score: 15.060916065359034
+Run 262 - Episode finished after 23 timesteps
+Score: 7.405763147978405
+Run 263 - Episode finished after 31 timesteps
+Score: 9.052692976892097
+Run 264 - Episode finished after 13 timesteps
+Score: 1.3718925735006406
+Run 265 - Episode finished after 16 timesteps
+Score: 4.521779511019474
+Run 266 - Episode finished after 17 timesteps
+Score: 3.8564528791071493
+Run 267 - Episode finished after 11 timesteps
+Score: 1.8411390815024076
+Run 268 - Episode finished after 16 timesteps
+Score: 2.7553466438864307
+Run 269 - Episode finished after 43 timesteps
+Score: 9.250118815160857
+Run 270 - Episode finished after 30 timesteps
+Score: 6.107404582761633
+Run 271 - Episode finished after 17 timesteps
+Score: 4.990233228128126
+Run 272 - Episode finished after 34 timesteps
+Score: 13.40566544284424
+Run 273 - Episode finished after 24 timesteps
+Score: 6.675362288990023
+Run 274 - Episode finished after 27 timesteps
+Score: 9.753902724372699
+Run 275 - Episode finished after 24 timesteps
+Score: 2.0961142425496204
+Run 276 - Episode finished after 9 timesteps
+Score: 1.1118414810798942
+Run 277 - Episode finished after 40 timesteps
+Score: 19.682679627802333
+Run 278 - Episode finished after 17 timesteps
+Score: 5.037741270619926
+Run 279 - Episode finished after 42 timesteps
+Score: 11.564297022053935
+Run 280 - Episode finished after 10 timesteps
+Score: 1.3141934190434148
+Run 281 - Episode finished after 12 timesteps
+Score: 1.343157917445137
+Run 282 - Episode finished after 14 timesteps
+Score: 3.9826327867824896
+Run 283 - Episode finished after 14 timesteps
+Score: 2.637592672254617
+Run 284 - Episode finished after 22 timesteps
+Score: 5.453696151694439
+Run 285 - Episode finished after 70 timesteps
+Score: 17.372782166632604
+Run 286 - Episode finished after 29 timesteps
+Score: 10.883282895372236
+Run 287 - Episode finished after 20 timesteps
+Score: 5.93841408627568
+Run 288 - Episode finished after 17 timesteps
+Score: 5.621596438026777
+Run 289 - Episode finished after 20 timesteps
+Score: 5.724527952730597
+Run 290 - Episode finished after 27 timesteps
+Score: 9.772367881078335
+Run 291 - Episode finished after 16 timesteps
+Score: 3.917053519377414
+Run 292 - Episode finished after 23 timesteps
+Score: 7.295278340495621
+Run 293 - Episode finished after 19 timesteps
+Score: 7.461693623899111
+Run 294 - Episode finished after 13 timesteps
+Score: 3.5748555415536547
+Run 295 - Episode finished after 31 timesteps
+Score: 12.594908229027423
+Run 296 - Episode finished after 46 timesteps
+Score: 9.458305151752793
+Run 297 - Episode finished after 26 timesteps
+Score: 11.622717059256232
+Run 298 - Episode finished after 19 timesteps
+Score: 1.9324715890185864
+Run 299 - Episode finished after 38 timesteps
+Score: 5.69893362253439
+Run 300 - Episode finished after 23 timesteps
+Score: 6.495943456040374
+Run 301 - Episode finished after 20 timesteps
+Score: 4.9828348374074976
+Run 302 - Episode finished after 19 timesteps
+Score: 2.521429119920623
+Run 303 - Episode finished after 21 timesteps
+Score: 7.930190978624864
+Run 304 - Episode finished after 22 timesteps
+Score: 4.3426432413981155
+Run 305 - Episode finished after 31 timesteps
+Score: 10.255172412126942
+Run 306 - Episode finished after 13 timesteps
+Score: 2.8788098300492146
+Run 307 - Episode finished after 58 timesteps
+Score: 25.803263364461994
+Run 308 - Episode finished after 26 timesteps
+Score: 7.283785484117703
+Run 309 - Episode finished after 15 timesteps
+Score: 4.259102190056193
+Run 310 - Episode finished after 24 timesteps
+Score: 9.708177472238512
+Run 311 - Episode finished after 17 timesteps
+Score: 3.5169831069752853
+Run 312 - Episode finished after 34 timesteps
+Score: 11.565609638501227
+Run 313 - Episode finished after 23 timesteps
+Score: 4.010850666426729
+Run 314 - Episode finished after 46 timesteps
+Score: 20.175746093799443
+Run 315 - Episode finished after 21 timesteps
+Score: 5.226703697908208
+Run 316 - Episode finished after 15 timesteps
+Score: 2.812799344207049
+Run 317 - Episode finished after 13 timesteps
+Score: 2.0417041920685275
+Run 318 - Episode finished after 18 timesteps
+Score: 4.315954082181552
+Run 319 - Episode finished after 22 timesteps
+Score: 7.631043144786158
+Run 320 - Episode finished after 23 timesteps
+Score: 7.3484355560907195
+Run 321 - Episode finished after 104 timesteps
+Score: 23.205208167652973
+Run 322 - Episode finished after 27 timesteps
+Score: 8.862420991969156
+Run 323 - Episode finished after 17 timesteps
+Score: 3.65108680829773
+Run 324 - Episode finished after 16 timesteps
+Score: 3.9438742083621854
+Run 325 - Episode finished after 19 timesteps
+Score: 5.338464818776727
+Run 326 - Episode finished after 35 timesteps
+Score: 7.467574407185684
+Run 327 - Episode finished after 22 timesteps
+Score: 8.17639062814109
+Run 328 - Episode finished after 10 timesteps
+Score: 1.4325332502683628
+Run 329 - Episode finished after 55 timesteps
+Score: 27.466165146295882
+Run 330 - Episode finished after 47 timesteps
+Score: 16.863530531761363
+Run 331 - Episode finished after 16 timesteps
+Score: 3.941542174156554
+Run 332 - Episode finished after 17 timesteps
+Score: 3.392575895072376
+Run 333 - Episode finished after 17 timesteps
+Score: 5.013911562210728
+Run 334 - Episode finished after 13 timesteps
+Score: 2.407268248653234
+Run 335 - Episode finished after 12 timesteps
+Score: 3.4729989199824227
+Run 336 - Episode finished after 19 timesteps
+Score: 6.125838945715787
+Run 337 - Episode finished after 21 timesteps
+Score: 6.677575939500764
+Run 338 - Episode finished after 35 timesteps
+Score: 7.724949305021928
+Run 339 - Episode finished after 15 timesteps
+Score: 4.48553342208548
+Run 340 - Episode finished after 65 timesteps
+Score: 29.278398857718738
+Run 341 - Episode finished after 12 timesteps
+Score: 2.6911488870759537
+Run 342 - Episode finished after 22 timesteps
+Score: 8.36529254326985
+Run 343 - Episode finished after 17 timesteps
+Score: 4.235511665632245
+Run 344 - Episode finished after 28 timesteps
+Score: 6.369736755581755
+Run 345 - Episode finished after 19 timesteps
+Score: 5.7177067546340545
+Run 346 - Episode finished after 11 timesteps
+Score: 2.041305865396318
+Run 347 - Episode finished after 15 timesteps
+Score: 3.4606797824150908
+Run 348 - Episode finished after 14 timesteps
+Score: 3.876205034840953
+Run 349 - Episode finished after 15 timesteps
+Score: 3.457957588307738
+Run 350 - Episode finished after 31 timesteps
+Score: 13.353071616283412
+Run 351 - Episode finished after 30 timesteps
+Score: 9.549822132062697
+Run 352 - Episode finished after 32 timesteps
+Score: 14.03478234187763
+Run 353 - Episode finished after 18 timesteps
+Score: 3.066184625556655
+Run 354 - Episode finished after 26 timesteps
+Score: 7.640559238661569
+Run 355 - Episode finished after 24 timesteps
+Score: 3.7856711749901693
+Run 356 - Episode finished after 51 timesteps
+Score: 17.60691206034735
+Run 357 - Episode finished after 35 timesteps
+Score: 13.859721321155133
+Run 358 - Episode finished after 12 timesteps
+Score: 1.3639104684273242
+Run 359 - Episode finished after 17 timesteps
+Score: 2.673723066823097
+Run 360 - Episode finished after 25 timesteps
+Score: 8.4192799421638
+Run 361 - Episode finished after 20 timesteps
+Score: 4.327226992423698
+Run 362 - Episode finished after 14 timesteps
+Score: 1.5232037343906701
+Run 363 - Episode finished after 21 timesteps
+Score: 4.981079123896778
+Run 364 - Episode finished after 16 timesteps
+Score: 5.630649743090255
+Run 365 - Episode finished after 32 timesteps
+Score: 11.158009823958983
+Run 366 - Episode finished after 22 timesteps
+Score: 8.26096347188176
+Run 367 - Episode finished after 27 timesteps
+Score: 11.530877262881946
+Run 368 - Episode finished after 19 timesteps
+Score: 5.168435901027167
+Run 369 - Episode finished after 14 timesteps
+Score: 3.7581148989735498
+Run 370 - Episode finished after 58 timesteps
+Score: 16.974889572004404
+Run 371 - Episode finished after 27 timesteps
+Score: 0.22011021344656345
+Run 372 - Episode finished after 18 timesteps
+Score: 3.839655060602485
+Run 373 - Episode finished after 15 timesteps
+Score: 2.1743956581634505
+Run 374 - Episode finished after 19 timesteps
+Score: 3.8989510451733693
+Run 375 - Episode finished after 31 timesteps
+Score: 10.469490416673318
+Run 376 - Episode finished after 26 timesteps
+Score: 6.756625001744798
+Run 377 - Episode finished after 36 timesteps
+Score: 6.097525524319649
+Run 378 - Episode finished after 49 timesteps
+Score: 18.047408794484326
+Run 379 - Episode finished after 21 timesteps
+Score: 2.779201997725256
+Run 380 - Episode finished after 23 timesteps
+Score: 6.863562521791954
+Run 381 - Episode finished after 14 timesteps
+Score: 2.846820578026615
+Run 382 - Episode finished after 13 timesteps
+Score: 4.098603248334756
+Run 383 - Episode finished after 27 timesteps
+Score: 7.6219056776983924
+Run 384 - Episode finished after 31 timesteps
+Score: 12.640163521141131
+Run 385 - Episode finished after 13 timesteps
+Score: 3.185994392291024
+Run 386 - Episode finished after 18 timesteps
+Score: 4.075882173384164
+Run 387 - Episode finished after 37 timesteps
+Score: 14.995561685695451
+Run 388 - Episode finished after 14 timesteps
+Score: 4.103978654653853
+Run 389 - Episode finished after 15 timesteps
+Score: 2.904000872115283
+Run 390 - Episode finished after 19 timesteps
+Score: 5.229785727796042
+Run 391 - Episode finished after 19 timesteps
+Score: 5.144197990743783
+Run 392 - Episode finished after 13 timesteps
+Score: 3.213810362015052
+Run 393 - Episode finished after 15 timesteps
+Score: 2.473870800023101
+Run 394 - Episode finished after 11 timesteps
+Score: 1.7413820656831307
+Run 395 - Episode finished after 13 timesteps
+Score: 2.9580869656132585
+Run 396 - Episode finished after 31 timesteps
+Score: 7.248757200629738
+Run 397 - Episode finished after 17 timesteps
+Score: 2.57452578137084
+Run 398 - Episode finished after 20 timesteps
+Score: 6.801589502473069
+Run 399 - Episode finished after 35 timesteps
+Score: 13.043029566100124
+Run 400 - Episode finished after 16 timesteps
+Score: 4.320733459750215
+Run 401 - Episode finished after 16 timesteps
+Score: 4.755089779426562
+Run 402 - Episode finished after 9 timesteps
+Score: 1.3204143162548614
+Run 403 - Episode finished after 11 timesteps
+Score: 1.5378088866993735
+Run 404 - Episode finished after 27 timesteps
+Score: 10.073263737510025
+Run 405 - Episode finished after 43 timesteps
+Score: 19.131711927835962
+Run 406 - Episode finished after 19 timesteps
+Score: 6.11278137798026
+Run 407 - Episode finished after 22 timesteps
+Score: 6.619931555745263
+Run 408 - Episode finished after 26 timesteps
+Score: 8.22078868712441
+Run 409 - Episode finished after 16 timesteps
+Score: 2.6525350126366947
+Run 410 - Episode finished after 31 timesteps
+Score: 7.48622245311371
+Run 411 - Episode finished after 25 timesteps
+Score: 9.780383248789912
+Run 412 - Episode finished after 25 timesteps
+Score: 3.45580109142647
+Run 413 - Episode finished after 16 timesteps
+Score: 3.077953258069348
+Run 414 - Episode finished after 21 timesteps
+Score: 2.8110833701499875
+Run 415 - Episode finished after 19 timesteps
+Score: 4.55727167097967
+Run 416 - Episode finished after 15 timesteps
+Score: 2.452528150261107
+Run 417 - Episode finished after 40 timesteps
+Score: 15.230945422485794
+Run 418 - Episode finished after 23 timesteps
+Score: 4.23705546738386
+Run 419 - Episode finished after 12 timesteps
+Score: 2.035578962971906
+Run 420 - Episode finished after 24 timesteps
+Score: 4.39378780582396
+Run 421 - Episode finished after 33 timesteps
+Score: 14.655962544992441
+Run 422 - Episode finished after 13 timesteps
+Score: 3.175927064914065
+Run 423 - Episode finished after 25 timesteps
+Score: 9.221758322583753
+Run 424 - Episode finished after 35 timesteps
+Score: 12.795051634351141
+Run 425 - Episode finished after 22 timesteps
+Score: 3.4724965056560686
+Run 426 - Episode finished after 13 timesteps
+Score: 2.364911187547121
+Run 427 - Episode finished after 30 timesteps
+Score: 6.277391555195652
+Run 428 - Episode finished after 15 timesteps
+Score: 4.258790219046377
+Run 429 - Episode finished after 22 timesteps
+Score: 8.032202493953488
+Run 430 - Episode finished after 16 timesteps
+Score: 3.135531529689391
+Run 431 - Episode finished after 29 timesteps
+Score: 3.476341174237865
+Run 432 - Episode finished after 22 timesteps
+Score: 6.7686181869205715
+Run 433 - Episode finished after 10 timesteps
+Score: 1.5883664570297134
+Run 434 - Episode finished after 20 timesteps
+Score: 5.966280662508898
+Run 435 - Episode finished after 22 timesteps
+Score: 8.048272929031446
+Run 436 - Episode finished after 19 timesteps
+Score: 4.096782927592205
+Run 437 - Episode finished after 15 timesteps
+Score: 3.1178428792959756
+Run 438 - Episode finished after 44 timesteps
+Score: 13.946708466932328
+Run 439 - Episode finished after 18 timesteps
+Score: 5.31791150639707
+Run 440 - Episode finished after 20 timesteps
+Score: 4.980103475640669
+Run 441 - Episode finished after 19 timesteps
+Score: 4.321051845243116
+Run 442 - Episode finished after 12 timesteps
+Score: 2.2421900275731206
+Run 443 - Episode finished after 11 timesteps
+Score: 2.6779956982481004
+Run 444 - Episode finished after 18 timesteps
+Score: 4.2601308629525745
+Run 445 - Episode finished after 11 timesteps
+Score: 0.9126911482092119
+Run 446 - Episode finished after 18 timesteps
+Score: 6.375474875873074
+Run 447 - Episode finished after 15 timesteps
+Score: 2.405437789477905
+Run 448 - Episode finished after 35 timesteps
+Score: 7.796045150224422
+Run 449 - Episode finished after 21 timesteps
+Score: 5.3609878410286536
+Run 450 - Episode finished after 23 timesteps
+Score: 8.351338617178047
+Run 451 - Episode finished after 13 timesteps
+Score: 2.482849066664687
+Run 452 - Episode finished after 15 timesteps
+Score: 2.8907553547142273
+Run 453 - Episode finished after 33 timesteps
+Score: 13.342654277530208
+Run 454 - Episode finished after 15 timesteps
+Score: 3.8163439432096116
+Run 455 - Episode finished after 22 timesteps
+Score: 3.214661942436412
+Run 456 - Episode finished after 17 timesteps
+Score: 3.620740043037833
+Run 457 - Episode finished after 17 timesteps
+Score: 5.626364098749264
+Run 458 - Episode finished after 15 timesteps
+Score: 3.6814040829947867
+Run 459 - Episode finished after 26 timesteps
+Score: 8.852589822066617
+Run 460 - Episode finished after 48 timesteps
+Score: 4.719797027362091
+Run 461 - Episode finished after 23 timesteps
+Score: 2.637500965713623
+Run 462 - Episode finished after 17 timesteps
+Score: 0.3908143933141338
+Run 463 - Episode finished after 13 timesteps
+Score: 2.132050730619322
+Run 464 - Episode finished after 23 timesteps
+Score: 8.624011263997883
+Run 465 - Episode finished after 24 timesteps
+Score: 7.714242045799605
+Run 466 - Episode finished after 19 timesteps
+Score: 6.015798392232092
+Run 467 - Episode finished after 19 timesteps
+Score: 3.278437035835858
+Run 468 - Episode finished after 11 timesteps
+Score: 1.492588325519881
+Run 469 - Episode finished after 51 timesteps
+Score: 17.129078902477318
+Run 470 - Episode finished after 14 timesteps
+Score: 5.340658191970762
+Run 471 - Episode finished after 37 timesteps
+Score: 14.114825936110028
+Run 472 - Episode finished after 56 timesteps
+Score: 19.23449565624926
+Run 473 - Episode finished after 20 timesteps
+Score: 4.75574425396196
+Run 474 - Episode finished after 23 timesteps
+Score: 9.370450188764485
+Run 475 - Episode finished after 21 timesteps
+Score: 3.9916248498168905
+Run 476 - Episode finished after 17 timesteps
+Score: 1.7946870179599976
+Run 477 - Episode finished after 36 timesteps
+Score: 8.5921031954478
+Run 478 - Episode finished after 18 timesteps
+Score: 3.9600367540745633
+Run 479 - Episode finished after 100 timesteps
+Score: 32.61601518785915
+Run 480 - Episode finished after 14 timesteps
+Score: 3.490924121034894
+Run 481 - Episode finished after 27 timesteps
+Score: 6.207494518669849
+Run 482 - Episode finished after 16 timesteps
+Score: 2.7844237861801533
+Run 483 - Episode finished after 69 timesteps
+Score: 11.10618730196955
+Run 484 - Episode finished after 13 timesteps
+Score: 2.783997762783271
+Run 485 - Episode finished after 16 timesteps
+Score: 4.196694040062438
+Run 486 - Episode finished after 18 timesteps
+Score: 5.167336541578107
+Run 487 - Episode finished after 17 timesteps
+Score: 3.294494929568865
+Run 488 - Episode finished after 26 timesteps
+Score: 2.9574073083057986
+Run 489 - Episode finished after 12 timesteps
+Score: 3.0686810101911925
+Run 490 - Episode finished after 14 timesteps
+Score: 1.6939649508853198
+Run 491 - Episode finished after 19 timesteps
+Score: 3.260394624545742
+Run 492 - Episode finished after 10 timesteps
+Score: 1.4491965813597072
+Run 493 - Episode finished after 34 timesteps
+Score: 9.785712038202805
+Run 494 - Episode finished after 22 timesteps
+Score: 8.08521485488959
+Run 495 - Episode finished after 19 timesteps
+Score: 7.0039179168042995
+Run 496 - Episode finished after 33 timesteps
+Score: 9.264908751254996
+Run 497 - Episode finished after 14 timesteps
+Score: 2.9623620756274667
+Run 498 - Episode finished after 16 timesteps
+Score: 3.3567607399949773
+Run 499 - Episode finished after 33 timesteps
+Score: 12.075109360264038
+Run 500 - Episode finished after 17 timesteps
+Score: 4.692330433563803
+Run 501 - Episode finished after 61 timesteps
+Score: 21.49081644756322
+Run 502 - Episode finished after 13 timesteps
+Score: 2.5346596390514544
+Run 503 - Episode finished after 33 timesteps
+Score: 12.968677272446369
+Run 504 - Episode finished after 13 timesteps
+Score: 3.1607326828097033
+Run 505 - Episode finished after 20 timesteps
+Score: 4.134191803390023
+Run 506 - Episode finished after 17 timesteps
+Score: 5.633500035441064
+Run 507 - Episode finished after 11 timesteps
+Score: 2.0403531383778435
+Run 508 - Episode finished after 22 timesteps
+Score: 7.112655524071346
+Run 509 - Episode finished after 15 timesteps
+Score: 2.7830513941314132
+Run 510 - Episode finished after 14 timesteps
+Score: 4.2975767934673526
+Run 511 - Episode finished after 13 timesteps
+Score: 0.5900159137958584
+Run 512 - Episode finished after 25 timesteps
+Score: 4.615313647039523
+Run 513 - Episode finished after 13 timesteps
+Score: 2.9380290708569405
+Run 514 - Episode finished after 12 timesteps
+Score: 2.854570725446177
+Run 515 - Episode finished after 17 timesteps
+Score: 5.2661442188000835
+Run 516 - Episode finished after 13 timesteps
+Score: 2.3892589965978672
+Run 517 - Episode finished after 34 timesteps
+Score: 15.495266436932837
+Run 518 - Episode finished after 37 timesteps
+Score: 12.206296443472425
+Run 519 - Episode finished after 16 timesteps
+Score: 4.087858360189895
+Run 520 - Episode finished after 25 timesteps
+Score: 5.246517815504284
+Run 521 - Episode finished after 21 timesteps
+Score: 4.200990503059088
+Run 522 - Episode finished after 14 timesteps
+Score: 3.2835908306679817
+Run 523 - Episode finished after 37 timesteps
+Score: 10.858612223660536
+Run 524 - Episode finished after 14 timesteps
+Score: 2.7018845627411228
+Run 525 - Episode finished after 30 timesteps
+Score: 13.472005911827486
+Run 526 - Episode finished after 11 timesteps
+Score: 1.2129548673060269
+Run 527 - Episode finished after 23 timesteps
+Score: 9.060687868511167
+Run 528 - Episode finished after 16 timesteps
+Score: 2.0756526738336594
+Run 529 - Episode finished after 13 timesteps
+Score: 3.236190948265688
+Run 530 - Episode finished after 12 timesteps
+Score: 2.1917443484466417
+Run 531 - Episode finished after 18 timesteps
+Score: 3.282738382027783
+Run 532 - Episode finished after 13 timesteps
+Score: 2.535863320631558
+Run 533 - Episode finished after 112 timesteps
+Score: 3.482410424314554
+Run 534 - Episode finished after 11 timesteps
+Score: 1.084440548048532
+Run 535 - Episode finished after 34 timesteps
+Score: 12.276732143847807
+Run 536 - Episode finished after 21 timesteps
+Score: 3.6538152780984596
+Run 537 - Episode finished after 16 timesteps
+Score: 4.754626048300603
+Run 538 - Episode finished after 26 timesteps
+Score: 4.289860973088237
+Run 539 - Episode finished after 20 timesteps
+Score: 0.22624438984006745
+Run 540 - Episode finished after 16 timesteps
+Score: 4.412215472507958
+Run 541 - Episode finished after 23 timesteps
+Score: 8.94711670340568
+Run 542 - Episode finished after 13 timesteps
+Score: 3.3075798254733586
+Run 543 - Episode finished after 23 timesteps
+Score: 8.473889263351412
+Run 544 - Episode finished after 17 timesteps
+Score: 3.022629572990751
+Run 545 - Episode finished after 11 timesteps
+Score: 1.2794014021063018
+Run 546 - Episode finished after 13 timesteps
+Score: 2.4378055347684136
+Run 547 - Episode finished after 35 timesteps
+Score: 13.215934075114742
+Run 548 - Episode finished after 25 timesteps
+Score: 9.943559670933427
+Run 549 - Episode finished after 30 timesteps
+Score: 11.462421932170225
+Run 550 - Episode finished after 19 timesteps
+Score: 7.648101566100346
+Run 551 - Episode finished after 17 timesteps
+Score: 4.752465849580703
+Run 552 - Episode finished after 12 timesteps
+Score: 1.727722989686938
+Run 553 - Episode finished after 32 timesteps
+Score: 6.038569565177038
+Run 554 - Episode finished after 17 timesteps
+Score: 4.722464063189749
+Run 555 - Episode finished after 39 timesteps
+Score: -0.7565389643703635
+Run 556 - Episode finished after 11 timesteps
+Score: 1.773366612759908
+Run 557 - Episode finished after 19 timesteps
+Score: 4.438262064019508
+Run 558 - Episode finished after 16 timesteps
+Score: 4.379194743587223
+Run 559 - Episode finished after 19 timesteps
+Score: 3.8880997625677365
+Run 560 - Episode finished after 28 timesteps
+Score: 7.036320874286471
+Run 561 - Episode finished after 13 timesteps
+Score: 2.7150459198496026
+Run 562 - Episode finished after 20 timesteps
+Score: 3.7184285709421534
+Run 563 - Episode finished after 11 timesteps
+Score: 2.1144907578476535
+Run 564 - Episode finished after 18 timesteps
+Score: 5.027888030972282
+Run 565 - Episode finished after 13 timesteps
+Score: 1.7098053033803093
+Run 566 - Episode finished after 11 timesteps
+Score: 1.0228193291795178
+Run 567 - Episode finished after 25 timesteps
+Score: 6.384714522245967
+Run 568 - Episode finished after 13 timesteps
+Score: 4.144450471314548
+Run 569 - Episode finished after 24 timesteps
+Score: 8.501929582702349
+Run 570 - Episode finished after 15 timesteps
+Score: 2.4125882472911724
+Run 571 - Episode finished after 14 timesteps
+Score: 4.280907754661517
+Run 572 - Episode finished after 19 timesteps
+Score: 4.301458015361203
+Run 573 - Episode finished after 16 timesteps
+Score: 3.1142101262664426
+Run 574 - Episode finished after 14 timesteps
+Score: 3.1434194872855477
+Run 575 - Episode finished after 19 timesteps
+Score: -0.4286518439894954
+Run 576 - Episode finished after 26 timesteps
+Score: 6.963747243149601
+Run 577 - Episode finished after 22 timesteps
+Score: 7.313853712680209
+Run 578 - Episode finished after 14 timesteps
+Score: 2.058672042190146
+Run 579 - Episode finished after 42 timesteps
+Score: 18.34547086094015
+Run 580 - Episode finished after 32 timesteps
+Score: 8.797630193125105
+Run 581 - Episode finished after 17 timesteps
+Score: 2.3886752772639794
+Run 582 - Episode finished after 21 timesteps
+Score: 6.749154123958135
+Run 583 - Episode finished after 23 timesteps
+Score: 7.303395767237317
+Run 584 - Episode finished after 16 timesteps
+Score: 4.7486003887253965
+Run 585 - Episode finished after 26 timesteps
+Score: 6.511643094930502
+Run 586 - Episode finished after 35 timesteps
+Score: 13.738614607679379
+Run 587 - Episode finished after 18 timesteps
+Score: 4.62882224615381
+Run 588 - Episode finished after 40 timesteps
+Score: 11.27307854028384
+Run 589 - Episode finished after 13 timesteps
+Score: 1.925505570034236
+Run 590 - Episode finished after 35 timesteps
+Score: 12.878841566080371
+Run 591 - Episode finished after 35 timesteps
+Score: 10.888128368802278
+Run 592 - Episode finished after 12 timesteps
+Score: 2.7542199483549066
+Run 593 - Episode finished after 16 timesteps
+Score: 4.52658584870754
+Run 594 - Episode finished after 16 timesteps
+Score: 2.3885722022377256
+Run 595 - Episode finished after 21 timesteps
+Score: 4.802457056540958
+Run 596 - Episode finished after 18 timesteps
+Score: 6.507561456916227
+Run 597 - Episode finished after 14 timesteps
+Score: 3.5322328961552802
+Run 598 - Episode finished after 20 timesteps
+Score: 3.102433424104828
+Run 599 - Episode finished after 56 timesteps
+Score: 28.013105552728334
+Run 600 - Episode finished after 20 timesteps
+Score: 5.764443817675106
+Run 601 - Episode finished after 20 timesteps
+Score: 8.180852469133598
+Run 602 - Episode finished after 16 timesteps
+Score: 4.130247384147164
+Run 603 - Episode finished after 14 timesteps
+Score: 3.499498623678828
+Run 604 - Episode finished after 19 timesteps
+Score: 6.279947777959704
+Run 605 - Episode finished after 13 timesteps
+Score: 2.5614492905148416
+Run 606 - Episode finished after 13 timesteps
+Score: 2.792405822559287
+Run 607 - Episode finished after 25 timesteps
+Score: 8.08067502203754
+Run 608 - Episode finished after 15 timesteps
+Score: 2.426368663621653
+Run 609 - Episode finished after 18 timesteps
+Score: 2.2872771965839735
+Run 610 - Episode finished after 18 timesteps
+Score: -0.3161335007358615
+Run 611 - Episode finished after 19 timesteps
+Score: 2.873366500183716
+Run 612 - Episode finished after 16 timesteps
+Score: 2.463643787439679
+Run 613 - Episode finished after 31 timesteps
+Score: 11.631547117404333
+Run 614 - Episode finished after 12 timesteps
+Score: 2.4040450213280886
+Run 615 - Episode finished after 23 timesteps
+Score: 5.955920125161238
+Run 616 - Episode finished after 27 timesteps
+Score: 7.534609491422294
+Run 617 - Episode finished after 12 timesteps
+Score: 1.8300323645908343
+Run 618 - Episode finished after 34 timesteps
+Score: 14.667696279831667
+Run 619 - Episode finished after 27 timesteps
+Score: 11.732053487704786
+Run 620 - Episode finished after 18 timesteps
+Score: 4.752883762448942
+Run 621 - Episode finished after 24 timesteps
+Score: 7.708957583921058
+Run 622 - Episode finished after 24 timesteps
+Score: 6.2012539231255275
+Run 623 - Episode finished after 25 timesteps
+Score: 8.021413883720387
+Run 624 - Episode finished after 16 timesteps
+Score: 4.419706573815894
+Run 625 - Episode finished after 23 timesteps
+Score: 5.588333337445926
+Run 626 - Episode finished after 41 timesteps
+Score: 15.061060297373471
+Run 627 - Episode finished after 16 timesteps
+Score: 3.618983672598855
+Run 628 - Episode finished after 54 timesteps
+Score: 4.901873826098528
+Run 629 - Episode finished after 30 timesteps
+Score: 8.120733991229855
+Run 630 - Episode finished after 19 timesteps
+Score: 4.9429020359311675
+Run 631 - Episode finished after 60 timesteps
+Score: 5.8037173633802475
+Run 632 - Episode finished after 27 timesteps
+Score: 6.618755428530824
+Run 633 - Episode finished after 15 timesteps
+Score: 4.878397214565369
+Run 634 - Episode finished after 27 timesteps
+Score: 11.691774169390941
+Run 635 - Episode finished after 13 timesteps
+Score: 2.535037742651383
+Run 636 - Episode finished after 16 timesteps
+Score: 5.0473891452677115
+Run 637 - Episode finished after 13 timesteps
+Score: 2.057109655698706
+Run 638 - Episode finished after 13 timesteps
+Score: 3.099158997371515
+Run 639 - Episode finished after 30 timesteps
+Score: 10.844287837649293
+Run 640 - Episode finished after 17 timesteps
+Score: 5.869118387220529
+Run 641 - Episode finished after 20 timesteps
+Score: 3.0689476726326137
+Run 642 - Episode finished after 28 timesteps
+Score: 8.64009846379745
+Run 643 - Episode finished after 14 timesteps
+Score: 3.4318282419689368
+Run 644 - Episode finished after 17 timesteps
+Score: 5.535651165919953
+Run 645 - Episode finished after 17 timesteps
+Score: 4.749886519483876
+Run 646 - Episode finished after 28 timesteps
+Score: 8.197018109709989
+Run 647 - Episode finished after 28 timesteps
+Score: 6.59365311888479
+Run 648 - Episode finished after 20 timesteps
+Score: 6.69362314092746
+Run 649 - Episode finished after 25 timesteps
+Score: 5.139379838463778
+Run 650 - Episode finished after 41 timesteps
+Score: 18.543153435062813
+Run 651 - Episode finished after 17 timesteps
+Score: 5.698184097716154
+Run 652 - Episode finished after 16 timesteps
+Score: 4.0993919585989635
+Run 653 - Episode finished after 21 timesteps
+Score: 4.180269513701188
+Run 654 - Episode finished after 34 timesteps
+Score: 11.004131923894262
+Run 655 - Episode finished after 17 timesteps
+Score: 4.988085140954157
+Run 656 - Episode finished after 68 timesteps
+Score: 21.217781148136734
+Run 657 - Episode finished after 15 timesteps
+Score: 4.26174246204325
+Run 658 - Episode finished after 11 timesteps
+Score: 2.167173756044922
+Run 659 - Episode finished after 18 timesteps
+Score: 5.169730959388051
+Run 660 - Episode finished after 35 timesteps
+Score: 8.873415910609197
+Run 661 - Episode finished after 30 timesteps
+Score: 11.652623752425287
+Run 662 - Episode finished after 10 timesteps
+Score: 1.8280873743841688
+Run 663 - Episode finished after 30 timesteps
+Score: 4.3797437797500836
+Run 664 - Episode finished after 20 timesteps
+Score: 3.3518991994903944
+Run 665 - Episode finished after 16 timesteps
+Score: 3.6835880372137315
+Run 666 - Episode finished after 57 timesteps
+Score: 26.635101857323153
+Run 667 - Episode finished after 16 timesteps
+Score: 6.558114961219672
+Run 668 - Episode finished after 14 timesteps
+Score: 3.875038165470601
+Run 669 - Episode finished after 31 timesteps
+Score: 9.946409399792294
+Run 670 - Episode finished after 40 timesteps
+Score: 2.2704944082443754
+Run 671 - Episode finished after 22 timesteps
+Score: 7.203249736306549
+Run 672 - Episode finished after 21 timesteps
+Score: 7.701006637291956
+Run 673 - Episode finished after 13 timesteps
+Score: 2.2952383585165346
+Run 674 - Episode finished after 18 timesteps
+Score: 5.725222010384338
+Run 675 - Episode finished after 38 timesteps
+Score: 11.916736727802157
+Run 676 - Episode finished after 22 timesteps
+Score: 6.953506560483489
+Run 677 - Episode finished after 15 timesteps
+Score: 3.342769859233559
+Run 678 - Episode finished after 26 timesteps
+Score: 0.6855767257709955
+Run 679 - Episode finished after 19 timesteps
+Score: 0.9386272995657352
+Run 680 - Episode finished after 22 timesteps
+Score: 7.386609340525533
+Run 681 - Episode finished after 16 timesteps
+Score: 4.252625576577897
+Run 682 - Episode finished after 20 timesteps
+Score: 6.222409032835806
+Run 683 - Episode finished after 18 timesteps
+Score: 5.202894555123569
+Run 684 - Episode finished after 35 timesteps
+Score: 7.520977898162138
+Run 685 - Episode finished after 24 timesteps
+Score: 9.45499513308511
+Run 686 - Episode finished after 18 timesteps
+Score: 6.275406820109862
+Run 687 - Episode finished after 26 timesteps
+Score: 9.394525959415278
+Run 688 - Episode finished after 15 timesteps
+Score: 2.7706492802086364
+Run 689 - Episode finished after 28 timesteps
+Score: 7.115820564768533
+Run 690 - Episode finished after 36 timesteps
+Score: 16.291605305583825
+Run 691 - Episode finished after 12 timesteps
+Score: 2.521504872705149
+Run 692 - Episode finished after 16 timesteps
+Score: 2.5024419809771543
+Run 693 - Episode finished after 11 timesteps
+Score: 2.183737020916055
+Run 694 - Episode finished after 14 timesteps
+Score: 3.1031585536628734
+Run 695 - Episode finished after 51 timesteps
+Score: 22.33847012249849
+Run 696 - Episode finished after 50 timesteps
+Score: 1.198011512891174
+Run 697 - Episode finished after 20 timesteps
+Score: 6.968496757575944
+Run 698 - Episode finished after 34 timesteps
+Score: 6.670553709511152
+Run 699 - Episode finished after 26 timesteps
+Score: 10.736577238275597
+Run 700 - Episode finished after 20 timesteps
+Score: 8.019178235446464
+Run 701 - Episode finished after 26 timesteps
+Score: 8.559892976250302
+Run 702 - Episode finished after 24 timesteps
+Score: 4.747506090194622
+Run 703 - Episode finished after 39 timesteps
+Score: 13.347548916433015
+Run 704 - Episode finished after 16 timesteps
+Score: 4.4361784633569314
+Run 705 - Episode finished after 19 timesteps
+Score: 2.9482444464132196
+Run 706 - Episode finished after 20 timesteps
+Score: 5.531023305737991
+Run 707 - Episode finished after 16 timesteps
+Score: 5.142610740800242
+Run 708 - Episode finished after 13 timesteps
+Score: 1.8529920935040534
+Run 709 - Episode finished after 16 timesteps
+Score: 3.9194611654732263
+Run 710 - Episode finished after 14 timesteps
+Score: 2.3010503536140523
+Run 711 - Episode finished after 30 timesteps
+Score: 9.959621335637411
+Run 712 - Episode finished after 12 timesteps
+Score: 2.5277281109140604
+Run 713 - Episode finished after 39 timesteps
+Score: 16.360006860915206
+Run 714 - Episode finished after 33 timesteps
+Score: 7.343285063671153
+Run 715 - Episode finished after 22 timesteps
+Score: 1.9910449105797197
+Run 716 - Episode finished after 15 timesteps
+Score: 3.127702116430528
+Run 717 - Episode finished after 22 timesteps
+Score: 7.494188243735828
+Run 718 - Episode finished after 17 timesteps
+Score: 4.960336133469453
+Run 719 - Episode finished after 22 timesteps
+Score: 4.377852122432136
+Run 720 - Episode finished after 34 timesteps
+Score: 14.063764893193818
+Run 721 - Episode finished after 29 timesteps
+Score: 4.601713353718254
+Run 722 - Episode finished after 52 timesteps
+Score: 18.709415191249605
+Run 723 - Episode finished after 25 timesteps
+Score: 9.510022243690724
+Run 724 - Episode finished after 13 timesteps
+Score: 2.835198220292876
+Run 725 - Episode finished after 60 timesteps
+Score: 24.286982489788247
+Run 726 - Episode finished after 34 timesteps
+Score: 10.52237086955516
+Run 727 - Episode finished after 13 timesteps
+Score: 2.6800808906698905
+Run 728 - Episode finished after 23 timesteps
+Score: 6.242396865589427
+Run 729 - Episode finished after 12 timesteps
+Score: 2.5426628369660293
+Run 730 - Episode finished after 39 timesteps
+Score: 4.071390047231052
+Run 731 - Episode finished after 26 timesteps
+Score: 8.056671594703877
+Run 732 - Episode finished after 15 timesteps
+Score: 2.198656668156904
+Run 733 - Episode finished after 22 timesteps
+Score: 7.66416524660944
+Run 734 - Episode finished after 22 timesteps
+Score: 9.147066166403482
+Run 735 - Episode finished after 35 timesteps
+Score: 4.29804861899049
+Run 736 - Episode finished after 19 timesteps
+Score: 4.519427357066082
+Run 737 - Episode finished after 14 timesteps
+Score: 2.789081211576238
+Run 738 - Episode finished after 17 timesteps
+Score: 3.195436670226189
+Run 739 - Episode finished after 24 timesteps
+Score: 9.144540467611197
+Run 740 - Episode finished after 16 timesteps
+Score: 2.6374037117309364
+Run 741 - Episode finished after 11 timesteps
+Score: 2.2696515656241942
+Run 742 - Episode finished after 11 timesteps
+Score: 1.9149309206629712
+Run 743 - Episode finished after 21 timesteps
+Score: 6.590873355853353
+Run 744 - Episode finished after 43 timesteps
+Score: 14.247822297900653
+Run 745 - Episode finished after 35 timesteps
+Score: 1.8131611565319932
+Run 746 - Episode finished after 26 timesteps
+Score: 7.539682772793152
+Run 747 - Episode finished after 12 timesteps
+Score: 1.8738090226296729
+Run 748 - Episode finished after 13 timesteps
+Score: 3.1596918150800875
+Run 749 - Episode finished after 54 timesteps
+Score: 19.87213466553884
+Run 750 - Episode finished after 28 timesteps
+Score: 7.002200745493772
+Run 751 - Episode finished after 25 timesteps
+Score: 5.575011164740034
+Run 752 - Episode finished after 16 timesteps
+Score: 1.4580065855660802
+Run 753 - Episode finished after 33 timesteps
+Score: 11.981681700358244
+Run 754 - Episode finished after 62 timesteps
+Score: 20.597338060694664
+Run 755 - Episode finished after 25 timesteps
+Score: 2.9900629854143284
+Run 756 - Episode finished after 20 timesteps
+Score: 3.940913690327255
+Run 757 - Episode finished after 41 timesteps
+Score: 13.936229930426911
+Run 758 - Episode finished after 25 timesteps
+Score: 3.753967128577897
+Run 759 - Episode finished after 10 timesteps
+Score: 0.9946155979051429
+Run 760 - Episode finished after 19 timesteps
+Score: 5.270331247120167
+Run 761 - Episode finished after 16 timesteps
+Score: 2.36304772179261
+Run 762 - Episode finished after 40 timesteps
+Score: 12.249915338659013
+Run 763 - Episode finished after 22 timesteps
+Score: 8.802136415559344
+Run 764 - Episode finished after 31 timesteps
+Score: 13.48738865828262
+Run 765 - Episode finished after 17 timesteps
+Score: 4.612161722469764
+Run 766 - Episode finished after 38 timesteps
+Score: 13.361675537446057
+Run 767 - Episode finished after 12 timesteps
+Score: 2.628362890136416
+Run 768 - Episode finished after 11 timesteps
+Score: 1.1633244411187191
+Run 769 - Episode finished after 20 timesteps
+Score: 6.32048627838128
+Run 770 - Episode finished after 51 timesteps
+Score: 21.2665729756813
+Run 771 - Episode finished after 22 timesteps
+Score: 8.227708393370495
+Run 772 - Episode finished after 22 timesteps
+Score: 7.271828679696785
+Run 773 - Episode finished after 32 timesteps
+Score: 12.596359222576044
+Run 774 - Episode finished after 38 timesteps
+Score: 7.759876260005243
+Run 775 - Episode finished after 23 timesteps
+Score: 4.09827757677801
+Run 776 - Episode finished after 22 timesteps
+Score: 7.2161396071382145
+Run 777 - Episode finished after 26 timesteps
+Score: 6.069684946420182
+Run 778 - Episode finished after 13 timesteps
+Score: 2.4538718265902792
+Run 779 - Episode finished after 26 timesteps
+Score: 10.697493209857733
+Run 780 - Episode finished after 30 timesteps
+Score: 10.652120184334603
+Run 781 - Episode finished after 33 timesteps
+Score: 11.103550031159154
+Run 782 - Episode finished after 14 timesteps
+Score: 4.109632991607626
+Run 783 - Episode finished after 19 timesteps
+Score: 6.647289378201265
+Run 784 - Episode finished after 37 timesteps
+Score: 11.206366242791056
+Run 785 - Episode finished after 25 timesteps
+Score: 9.774388209101808
+Run 786 - Episode finished after 23 timesteps
+Score: 8.210915286251526
+Run 787 - Episode finished after 15 timesteps
+Score: 1.3974889084198536
+Run 788 - Episode finished after 13 timesteps
+Score: 1.334576104627541
+Run 789 - Episode finished after 62 timesteps
+Score: 10.983700185893756
+Run 790 - Episode finished after 27 timesteps
+Score: 8.891107669589992
+Run 791 - Episode finished after 17 timesteps
+Score: 5.55309067688554
+Run 792 - Episode finished after 17 timesteps
+Score: 3.607904321456121
+Run 793 - Episode finished after 18 timesteps
+Score: 3.87768209665772
+Run 794 - Episode finished after 22 timesteps
+Score: 8.941946524042113
+Run 795 - Episode finished after 18 timesteps
+Score: 3.381874704472519
+Run 796 - Episode finished after 25 timesteps
+Score: 9.84271807359439
+Run 797 - Episode finished after 34 timesteps
+Score: 8.409573190544288
+Run 798 - Episode finished after 15 timesteps
+Score: 5.6079862154889675
+Run 799 - Episode finished after 21 timesteps
+Score: 9.060056853758413
+Run 800 - Episode finished after 29 timesteps
+Score: 7.905210344506043
+Run 801 - Episode finished after 41 timesteps
+Score: 7.684439578736781
+Run 802 - Episode finished after 23 timesteps
+Score: 6.191398339700255
+Run 803 - Episode finished after 79 timesteps
+Score: 28.418307903690703
+Run 804 - Episode finished after 24 timesteps
+Score: 3.979322838350863
+Run 805 - Episode finished after 18 timesteps
+Score: 6.017697695065714
+Run 806 - Episode finished after 38 timesteps
+Score: 11.060361817849747
+Run 807 - Episode finished after 24 timesteps
+Score: 6.451593312120162
+Run 808 - Episode finished after 35 timesteps
+Score: 11.228072067615098
+Run 809 - Episode finished after 13 timesteps
+Score: 1.7979164357078035
+Run 810 - Episode finished after 33 timesteps
+Score: 14.487599761184736
+Run 811 - Episode finished after 21 timesteps
+Score: 5.304878418872401
+Run 812 - Episode finished after 20 timesteps
+Score: 1.9184841533484418
+Run 813 - Episode finished after 20 timesteps
+Score: 5.659606925178161
+Run 814 - Episode finished after 23 timesteps
+Score: 2.626050533088577
+Run 815 - Episode finished after 17 timesteps
+Score: 4.670814164378816
+Run 816 - Episode finished after 31 timesteps
+Score: 14.818150885456605
+Run 817 - Episode finished after 32 timesteps
+Score: 2.4545109299812307
+Run 818 - Episode finished after 22 timesteps
+Score: 8.653149316705035
+Run 819 - Episode finished after 13 timesteps
+Score: 1.5292860518224043
+Run 820 - Episode finished after 36 timesteps
+Score: 12.110916986773661
+Run 821 - Episode finished after 27 timesteps
+Score: 9.897639536585984
+Run 822 - Episode finished after 10 timesteps
+Score: 1.6699944987308077
+Run 823 - Episode finished after 21 timesteps
+Score: 4.857530855967859
+Run 824 - Episode finished after 22 timesteps
+Score: 7.655156001717828
+Run 825 - Episode finished after 15 timesteps
+Score: 1.1825274150645506
+Run 826 - Episode finished after 27 timesteps
+Score: 10.762304519589657
+Run 827 - Episode finished after 19 timesteps
+Score: 8.268056724669654
+Run 828 - Episode finished after 32 timesteps
+Score: 9.436931544453401
+Run 829 - Episode finished after 12 timesteps
+Score: 0.9620537576440246
+Run 830 - Episode finished after 57 timesteps
+Score: 20.161548237792353
+Run 831 - Episode finished after 18 timesteps
+Score: 1.7742594880205944
+Run 832 - Episode finished after 20 timesteps
+Score: 7.647125942103871
+Run 833 - Episode finished after 23 timesteps
+Score: 9.355764582331087
+Run 834 - Episode finished after 47 timesteps
+Score: 19.784439955173116
+Run 835 - Episode finished after 19 timesteps
+Score: 5.460365027125261
+Run 836 - Episode finished after 31 timesteps
+Score: 7.7875942991265745
+Run 837 - Episode finished after 14 timesteps
+Score: 3.5886025775001347
+Run 838 - Episode finished after 11 timesteps
+Score: 2.932892910759134
+Run 839 - Episode finished after 23 timesteps
+Score: 10.219741585209489
+Run 840 - Episode finished after 16 timesteps
+Score: 5.5223571051171785
+Run 841 - Episode finished after 22 timesteps
+Score: 6.656536994023874
+Run 842 - Episode finished after 40 timesteps
+Score: 15.240112871378832
+Run 843 - Episode finished after 23 timesteps
+Score: 5.20570189651867
+Run 844 - Episode finished after 12 timesteps
+Score: 1.519468096042722
+Run 845 - Episode finished after 17 timesteps
+Score: 3.598657102216803
+Run 846 - Episode finished after 61 timesteps
+Score: 13.767511774121305
+Run 847 - Episode finished after 17 timesteps
+Score: 0.823288554136921
+Run 848 - Episode finished after 32 timesteps
+Score: 2.072363344926987
+Run 849 - Episode finished after 9 timesteps
+Score: 1.435177263247709
+Run 850 - Episode finished after 24 timesteps
+Score: 4.137026718314638
+Run 851 - Episode finished after 14 timesteps
+Score: 3.9181955555092816
+Run 852 - Episode finished after 13 timesteps
+Score: 2.4068931817780337
+Run 853 - Episode finished after 18 timesteps
+Score: 2.3441255079564445
+Run 854 - Episode finished after 16 timesteps
+Score: 5.475122431424377
+Run 855 - Episode finished after 14 timesteps
+Score: 4.351560555401962
+Run 856 - Episode finished after 20 timesteps
+Score: 6.511582103697678
+Run 857 - Episode finished after 21 timesteps
+Score: 4.736046272851985
+Run 858 - Episode finished after 24 timesteps
+Score: 6.182148825174255
+Run 859 - Episode finished after 28 timesteps
+Score: 12.075589589233205
+Run 860 - Episode finished after 12 timesteps
+Score: 1.9695635303676102
+Run 861 - Episode finished after 17 timesteps
+Score: 3.5584756245976217
+Run 862 - Episode finished after 23 timesteps
+Score: 8.476206122844342
+Run 863 - Episode finished after 18 timesteps
+Score: 4.463984993681339
+Run 864 - Episode finished after 44 timesteps
+Score: 7.48133132961167
+Run 865 - Episode finished after 35 timesteps
+Score: 11.270738398272535
+Run 866 - Episode finished after 28 timesteps
+Score: 5.118393929623792
+Run 867 - Episode finished after 12 timesteps
+Score: 2.7378645498002903
+Run 868 - Episode finished after 36 timesteps
+Score: 13.077957333201802
+Run 869 - Episode finished after 16 timesteps
+Score: 3.780533297021063
+Run 870 - Episode finished after 39 timesteps
+Score: 15.85705535155397
+Run 871 - Episode finished after 13 timesteps
+Score: 1.5860556641015817
+Run 872 - Episode finished after 68 timesteps
+Score: 21.629341099123874
+Run 873 - Episode finished after 20 timesteps
+Score: 2.449074055368393
+Run 874 - Episode finished after 10 timesteps
+Score: 1.6584491079804273
+Run 875 - Episode finished after 14 timesteps
+Score: 3.2881187932816234
+Run 876 - Episode finished after 22 timesteps
+Score: 3.3675355486377434
+Run 877 - Episode finished after 13 timesteps
+Score: 4.033588492001577
+Run 878 - Episode finished after 22 timesteps
+Score: 7.1774258088382625
+Run 879 - Episode finished after 22 timesteps
+Score: 2.9278106679934317
+Run 880 - Episode finished after 11 timesteps
+Score: 1.0769210260655986
+Run 881 - Episode finished after 14 timesteps
+Score: 1.8991478941774635
+Run 882 - Episode finished after 10 timesteps
+Score: 1.4265454505282285
+Run 883 - Episode finished after 50 timesteps
+Score: 12.014551583849972
+Run 884 - Episode finished after 25 timesteps
+Score: 8.185092538908789
+Run 885 - Episode finished after 14 timesteps
+Score: 2.350655246767032
+Run 886 - Episode finished after 27 timesteps
+Score: 7.389740654945341
+Run 887 - Episode finished after 23 timesteps
+Score: 1.0263425275393583
+Run 888 - Episode finished after 18 timesteps
+Score: 6.627189322404285
+Run 889 - Episode finished after 12 timesteps
+Score: 2.0733675751077953
+Run 890 - Episode finished after 12 timesteps
+Score: 2.4637605090580905
+Run 891 - Episode finished after 12 timesteps
+Score: 2.4132563782433945
+Run 892 - Episode finished after 22 timesteps
+Score: 4.437860996974467
+Run 893 - Episode finished after 24 timesteps
+Score: 7.089380589020691
+Run 894 - Episode finished after 14 timesteps
+Score: 3.80737000294352
+Run 895 - Episode finished after 12 timesteps
+Score: 0.9638506531894301
+Run 896 - Episode finished after 13 timesteps
+Score: 3.5376376756256396
+Run 897 - Episode finished after 21 timesteps
+Score: 5.998906641511181
+Run 898 - Episode finished after 45 timesteps
+Score: 17.764428018752266
+Run 899 - Episode finished after 24 timesteps
+Score: 9.296274469691332
+Run 900 - Episode finished after 13 timesteps
+Score: 2.4398690416290783
+Run 901 - Episode finished after 19 timesteps
+Score: 5.505210645504019
+Run 902 - Episode finished after 17 timesteps
+Score: 4.697463791742086
+Run 903 - Episode finished after 12 timesteps
+Score: 3.148660138459288
+Run 904 - Episode finished after 33 timesteps
+Score: 13.570125902602003
+Run 905 - Episode finished after 18 timesteps
+Score: 4.540043865784542
+Run 906 - Episode finished after 9 timesteps
+Score: 1.3748710310745031
+Run 907 - Episode finished after 16 timesteps
+Score: 2.2699472881835954
+Run 908 - Episode finished after 33 timesteps
+Score: 13.21440143770439
+Run 909 - Episode finished after 24 timesteps
+Score: 9.363079880897484
+Run 910 - Episode finished after 20 timesteps
+Score: 3.7686411295957924
+Run 911 - Episode finished after 12 timesteps
+Score: 0.8678603613781073
+Run 912 - Episode finished after 67 timesteps
+Score: 16.571656557994103
+Run 913 - Episode finished after 14 timesteps
+Score: 3.0968097499486507
+Run 914 - Episode finished after 35 timesteps
+Score: 12.1627197495879
+Run 915 - Episode finished after 24 timesteps
+Score: 6.499506110087918
+Run 916 - Episode finished after 34 timesteps
+Score: 12.97696630108755
+Run 917 - Episode finished after 18 timesteps
+Score: 4.301572089936307
+Run 918 - Episode finished after 44 timesteps
+Score: 4.65393539287089
+Run 919 - Episode finished after 14 timesteps
+Score: 1.274341968625009
+Run 920 - Episode finished after 28 timesteps
+Score: 6.722792351215641
+Run 921 - Episode finished after 34 timesteps
+Score: 13.188973045222015
+Run 922 - Episode finished after 43 timesteps
+Score: 15.371155047355021
+Run 923 - Episode finished after 16 timesteps
+Score: 5.909849488872862
+Run 924 - Episode finished after 10 timesteps
+Score: 1.6113410057302642
+Run 925 - Episode finished after 19 timesteps
+Score: 2.795601547579464
+Run 926 - Episode finished after 23 timesteps
+Score: 4.636652314928575
+Run 927 - Episode finished after 35 timesteps
+Score: 5.283480601772861
+Run 928 - Episode finished after 29 timesteps
+Score: 8.171940722006127
+Run 929 - Episode finished after 26 timesteps
+Score: 7.363748607898629
+Run 930 - Episode finished after 32 timesteps
+Score: 13.01917177975386
+Run 931 - Episode finished after 18 timesteps
+Score: 3.3874618005922104
+Run 932 - Episode finished after 48 timesteps
+Score: 10.346330199622196
+Run 933 - Episode finished after 50 timesteps
+Score: 21.044694884737382
+Run 934 - Episode finished after 9 timesteps
+Score: 1.2918978538935761
+Run 935 - Episode finished after 20 timesteps
+Score: 6.396212353760108
+Run 936 - Episode finished after 18 timesteps
+Score: 3.7291732252084113
+Run 937 - Episode finished after 17 timesteps
+Score: 6.567216851301508
+Run 938 - Episode finished after 24 timesteps
+Score: 6.415040081688968
+Run 939 - Episode finished after 20 timesteps
+Score: 4.29390224505666
+Run 940 - Episode finished after 24 timesteps
+Score: 5.494948782036609
+Run 941 - Episode finished after 19 timesteps
+Score: 7.1994148774925275
+Run 942 - Episode finished after 19 timesteps
+Score: 3.4131296554606134
+Run 943 - Episode finished after 54 timesteps
+Score: 13.13643689709852
+Run 944 - Episode finished after 13 timesteps
+Score: 1.949656464364955
+Run 945 - Episode finished after 26 timesteps
+Score: 5.707428351143437
+Run 946 - Episode finished after 27 timesteps
+Score: 6.736244314347871
+Run 947 - Episode finished after 20 timesteps
+Score: 5.7446940033855
+Run 948 - Episode finished after 25 timesteps
+Score: 5.554346020698691
+Run 949 - Episode finished after 24 timesteps
+Score: 6.401317027221708
+Run 950 - Episode finished after 31 timesteps
+Score: 8.179494618984085
+Run 951 - Episode finished after 35 timesteps
+Score: 12.615917560538508
+Run 952 - Episode finished after 16 timesteps
+Score: 5.450895633380157
+Run 953 - Episode finished after 25 timesteps
+Score: 6.039497202697203
+Run 954 - Episode finished after 22 timesteps
+Score: 8.443234248901213
+Run 955 - Episode finished after 21 timesteps
+Score: 5.612140532574738
+Run 956 - Episode finished after 21 timesteps
+Score: 7.075125569439983
+Run 957 - Episode finished after 17 timesteps
+Score: 3.4942485051738723
+Run 958 - Episode finished after 14 timesteps
+Score: 1.2029911322124605
+Run 959 - Episode finished after 23 timesteps
+Score: 5.13858305363453
+Run 960 - Episode finished after 15 timesteps
+Score: 2.3382459870778343
+Run 961 - Episode finished after 15 timesteps
+Score: 4.711640394255901
+Run 962 - Episode finished after 14 timesteps
+Score: 3.25118108038258
+Run 963 - Episode finished after 23 timesteps
+Score: 8.043343647765766
+Run 964 - Episode finished after 18 timesteps
+Score: 4.5976195767637495
+Run 965 - Episode finished after 13 timesteps
+Score: 3.1508985020959033
+Run 966 - Episode finished after 25 timesteps
+Score: 3.2160869266938046
+Run 967 - Episode finished after 30 timesteps
+Score: 11.497877253688596
+Run 968 - Episode finished after 26 timesteps
+Score: 7.3498627796074905
+Run 969 - Episode finished after 24 timesteps
+Score: 4.188598640379042
+Run 970 - Episode finished after 22 timesteps
+Score: 2.672886096560731
+Run 971 - Episode finished after 11 timesteps
+Score: 1.928750435203503
+Run 972 - Episode finished after 13 timesteps
+Score: 3.411245714490393
+Run 973 - Episode finished after 23 timesteps
+Score: 7.553412932817878
+Run 974 - Episode finished after 20 timesteps
+Score: 9.087582160863239
+Run 975 - Episode finished after 23 timesteps
+Score: 4.619923961148147
+Run 976 - Episode finished after 14 timesteps
+Score: 2.379288612639136
+Run 977 - Episode finished after 32 timesteps
+Score: 11.64677811379619
+Run 978 - Episode finished after 17 timesteps
+Score: 5.426547315034785
+Run 979 - Episode finished after 50 timesteps
+Score: 15.045605491305757
+Run 980 - Episode finished after 12 timesteps
+Score: 2.1924817204292513
+Run 981 - Episode finished after 25 timesteps
+Score: 10.336852394250503
+Run 982 - Episode finished after 52 timesteps
+Score: 14.13319347805103
+Run 983 - Episode finished after 17 timesteps
+Score: 5.191052004815575
+Run 984 - Episode finished after 18 timesteps
+Score: 5.109771969700398
+Run 985 - Episode finished after 16 timesteps
+Score: 3.9823495697653666
+Run 986 - Episode finished after 12 timesteps
+Score: 1.738029401219534
+Run 987 - Episode finished after 18 timesteps
+Score: 3.2787556143943153
+Run 988 - Episode finished after 11 timesteps
+Score: 1.1054548541081524
+Run 989 - Episode finished after 25 timesteps
+Score: 9.18910347002166
+Run 990 - Episode finished after 31 timesteps
+Score: 11.216278009496568
+Run 991 - Episode finished after 17 timesteps
+Score: 6.0986064142052445
+Run 992 - Episode finished after 23 timesteps
+Score: 3.4927410002709625
+Run 993 - Episode finished after 23 timesteps
+Score: 6.976454882526324
+Run 994 - Episode finished after 14 timesteps
+Score: 3.6201478284817563
+Run 995 - Episode finished after 26 timesteps
+Score: 5.1944893804861465
+Run 996 - Episode finished after 33 timesteps
+Score: 9.61032685500627
+Run 997 - Episode finished after 26 timesteps
+Score: 7.755124481340905
+Run 998 - Episode finished after 19 timesteps
+Score: 5.554245333605672
+Run 999 - Episode finished after 71 timesteps
+Score: 13.866652331613235
+Run 1000 - Episode finished after 25 timesteps
+Score: 10.669116700593001
+Run 1001 - Episode finished after 23 timesteps
+Score: 5.589410846594296
+Run 1002 - Episode finished after 16 timesteps
+Score: 4.77477274192218
+Run 1003 - Episode finished after 34 timesteps
+Score: 14.078972804133013
+Run 1004 - Episode finished after 16 timesteps
+Score: 4.243558074169366
+Run 1005 - Episode finished after 10 timesteps
+Score: 1.0436764315971918
+Run 1006 - Episode finished after 23 timesteps
+Score: 6.233889693596437
+Run 1007 - Episode finished after 42 timesteps
+Score: 13.59841275219519
+Run 1008 - Episode finished after 19 timesteps
+Score: 4.736593278636668
+Run 1009 - Episode finished after 33 timesteps
+Score: 5.086393805041635
+Run 1010 - Episode finished after 25 timesteps
+Score: 8.428081698853124
+Run 1011 - Episode finished after 34 timesteps
+Score: 15.15492252975536
+Run 1012 - Episode finished after 26 timesteps
+Score: 2.5813867410582203
+Run 1013 - Episode finished after 30 timesteps
+Score: 6.405749417155643
+Run 1014 - Episode finished after 31 timesteps
+Score: 13.861066714817525
+Run 1015 - Episode finished after 13 timesteps
+Score: 1.5058949151774106
+Run 1016 - Episode finished after 37 timesteps
+Score: 13.481963671253046
+Run 1017 - Episode finished after 14 timesteps
+Score: 1.9991227300918732
+Run 1018 - Episode finished after 17 timesteps
+Score: 3.7495064885799305
+Run 1019 - Episode finished after 41 timesteps
+Score: 16.048907433443574
+Run 1020 - Episode finished after 32 timesteps
+Score: 8.113255119269915
+Run 1021 - Episode finished after 13 timesteps
+Score: 4.294969689008671
+Run 1022 - Episode finished after 31 timesteps
+Score: 13.649954886980728
+Run 1023 - Episode finished after 20 timesteps
+Score: 6.188194033569617
+Run 1024 - Episode finished after 14 timesteps
+Score: 2.015997540412779
+Run 1025 - Episode finished after 35 timesteps
+Score: 16.793066200637284
+Run 1026 - Episode finished after 33 timesteps
+Score: 8.289673232660066
+Run 1027 - Episode finished after 23 timesteps
+Score: 5.082224467957921
+Run 1028 - Episode finished after 15 timesteps
+Score: 4.544410607792121
+Run 1029 - Episode finished after 12 timesteps
+Score: 2.2964526230867874
+Run 1030 - Episode finished after 20 timesteps
+Score: 5.754940495395535
+Run 1031 - Episode finished after 21 timesteps
+Score: 6.236105772085633
+Run 1032 - Episode finished after 17 timesteps
+Score: 4.348056798357135
+Run 1033 - Episode finished after 33 timesteps
+Score: 7.677011118169946
+Run 1034 - Episode finished after 22 timesteps
+Score: 5.76599368777511
+Run 1035 - Episode finished after 27 timesteps
+Score: 11.572029362500151
+Run 1036 - Episode finished after 14 timesteps
+Score: 3.3788336665380356
+Run 1037 - Episode finished after 35 timesteps
+Score: 12.899332979239263
+Run 1038 - Episode finished after 18 timesteps
+Score: 4.974730730502936
+Run 1039 - Episode finished after 18 timesteps
+Score: 3.997182548945321
+Run 1040 - Episode finished after 14 timesteps
+Score: 2.712400745003813
+Run 1041 - Episode finished after 14 timesteps
+Score: 3.544259125128093
+Run 1042 - Episode finished after 17 timesteps
+Score: 3.912279192052759
+Run 1043 - Episode finished after 11 timesteps
+Score: 1.5987570033810101
+Run 1044 - Episode finished after 26 timesteps
+Score: 7.046208782009114
+Run 1045 - Episode finished after 12 timesteps
+Score: 1.7858812473783956
+Run 1046 - Episode finished after 14 timesteps
+Score: 3.2837612812830557
+Run 1047 - Episode finished after 22 timesteps
+Score: 8.703806032913487
+Run 1048 - Episode finished after 12 timesteps
+Score: 2.1141429385727326
+Run 1049 - Episode finished after 12 timesteps
+Score: 2.5788654616433133
+Run 1050 - Episode finished after 19 timesteps
+Score: 7.036316406968434
+Run 1051 - Episode finished after 18 timesteps
+Score: 4.202323722842908
+Run 1052 - Episode finished after 22 timesteps
+Score: 8.765547712738236
+Run 1053 - Episode finished after 10 timesteps
+Score: 1.6664023288693222
+Run 1054 - Episode finished after 12 timesteps
+Score: 2.517122283445367
+Run 1055 - Episode finished after 13 timesteps
+Score: 1.2778530375913797
+Run 1056 - Episode finished after 14 timesteps
+Score: 2.2600929006336257
+Run 1057 - Episode finished after 12 timesteps
+Score: 1.3877222774647886
+Run 1058 - Episode finished after 21 timesteps
+Score: 7.035722894417413
+Run 1059 - Episode finished after 20 timesteps
+Score: 8.182264112580686
+Run 1060 - Episode finished after 18 timesteps
+Score: 2.9824549437809367
+Run 1061 - Episode finished after 56 timesteps
+Score: 21.857058614980563
+Run 1062 - Episode finished after 21 timesteps
+Score: 2.8565473712881846
+Run 1063 - Episode finished after 11 timesteps
+Score: 1.9257546443781632
+Run 1064 - Episode finished after 15 timesteps
+Score: 2.992725021737363
+Run 1065 - Episode finished after 21 timesteps
+Score: 6.8454125498784055
+Run 1066 - Episode finished after 12 timesteps
+Score: 1.9863188264575953
+Run 1067 - Episode finished after 22 timesteps
+Score: 5.886230758471145
+Run 1068 - Episode finished after 33 timesteps
+Score: 13.939198262906634
+Run 1069 - Episode finished after 48 timesteps
+Score: 11.972154913759205
+Run 1070 - Episode finished after 35 timesteps
+Score: 13.203430305895862
+Run 1071 - Episode finished after 53 timesteps
+Score: 19.142810907700014
+Run 1072 - Episode finished after 31 timesteps
+Score: 9.630450128447581
+Run 1073 - Episode finished after 18 timesteps
+Score: 5.276387359499802
+Run 1074 - Episode finished after 23 timesteps
+Score: 5.140633912035691
+Run 1075 - Episode finished after 15 timesteps
+Score: 3.4019317874522796
+Run 1076 - Episode finished after 19 timesteps
+Score: 6.8307645502906995
+Run 1077 - Episode finished after 24 timesteps
+Score: 4.523663087102542
+Run 1078 - Episode finished after 22 timesteps
+Score: 7.407626551154143
+Run 1079 - Episode finished after 24 timesteps
+Score: 6.058687045119185
+Run 1080 - Episode finished after 14 timesteps
+Score: 1.9613432773192299
+Run 1081 - Episode finished after 18 timesteps
+Score: 4.0476279638841195
+Run 1082 - Episode finished after 23 timesteps
+Score: 6.834940601842425
+Run 1083 - Episode finished after 33 timesteps
+Score: 6.390212395595057
+Run 1084 - Episode finished after 15 timesteps
+Score: 3.8371619669499744
+Run 1085 - Episode finished after 19 timesteps
+Score: 3.6462533357405413
+Run 1086 - Episode finished after 16 timesteps
+Score: 1.7000616589461715
+Run 1087 - Episode finished after 11 timesteps
+Score: 1.6903601802739447
+Run 1088 - Episode finished after 51 timesteps
+Score: 16.594281913462915
+Run 1089 - Episode finished after 20 timesteps
+Score: 2.2840786237092052
+Run 1090 - Episode finished after 32 timesteps
+Score: 0.6504143428319539
+Run 1091 - Episode finished after 20 timesteps
+Score: 6.253689732317818
+Run 1092 - Episode finished after 14 timesteps
+Score: 3.9696799071866917
+Run 1093 - Episode finished after 30 timesteps
+Score: 10.39544793251541
+Run 1094 - Episode finished after 24 timesteps
+Score: 9.545283362338937
+Run 1095 - Episode finished after 16 timesteps
+Score: 4.256423641251122
+Run 1096 - Episode finished after 10 timesteps
+Score: 1.5060517955681607
+Run 1097 - Episode finished after 16 timesteps
+Score: 2.656598899131683
+Run 1098 - Episode finished after 15 timesteps
+Score: 0.9774039055213299
+Run 1099 - Episode finished after 21 timesteps
+Score: 5.56493573064269
+Updating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedRun 1100 - Episode finished after 13 timesteps
+Score: 3.9706858906004108
+Run 1101 - Episode finished after 13 timesteps
+Score: 2.790850032246576
+Run 1102 - Episode finished after 25 timesteps
+Score: 4.419684723920471
+Run 1103 - Episode finished after 28 timesteps
+Score: 10.636483024804035
+Run 1104 - Episode finished after 35 timesteps
+Score: 12.238849060528494
+Run 1105 - Episode finished after 25 timesteps
+Score: 8.535171874687938
+Run 1106 - Episode finished after 42 timesteps
+Score: 12.410348585502796
+Run 1107 - Episode finished after 33 timesteps
+Score: 8.511992284444966
+Run 1108 - Episode finished after 16 timesteps
+Score: 3.8344837006996815
+Run 1109 - Episode finished after 23 timesteps
+Score: 7.901243805166072
+Run 1110 - Episode finished after 20 timesteps
+Score: 2.29973228662328
+Run 1111 - Episode finished after 24 timesteps
+Score: 9.235589641026422
+Run 1112 - Episode finished after 18 timesteps
+Score: 4.282213516079162
+Run 1113 - Episode finished after 23 timesteps
+Score: 7.459702600356162
+Run 1114 - Episode finished after 28 timesteps
+Score: 8.792987959159838
+Run 1115 - Episode finished after 24 timesteps
+Score: 8.583322356822062
+Run 1116 - Episode finished after 25 timesteps
+Score: 9.846738201364786
+Run 1117 - Episode finished after 40 timesteps
+Score: 3.826127816764316
+Run 1118 - Episode finished after 11 timesteps
+Score: 0.9841292446779154
+Run 1119 - Episode finished after 16 timesteps
+Score: 3.8565983454681683
+Run 1120 - Episode finished after 17 timesteps
+Score: 3.510818681928264
+Run 1121 - Episode finished after 46 timesteps
+Score: 11.653252609706934
+Run 1122 - Episode finished after 14 timesteps
+Score: 2.9667920212087906
+Run 1123 - Episode finished after 18 timesteps
+Score: 4.459985491974636
+Run 1124 - Episode finished after 15 timesteps
+Score: 2.941138020328807
+Run 1125 - Episode finished after 18 timesteps
+Score: 5.37454408100516
+Run 1126 - Episode finished after 13 timesteps
+Score: 1.5446655468622772
+Run 1127 - Episode finished after 24 timesteps
+Score: 9.809767857139859
+Run 1128 - Episode finished after 21 timesteps
+Score: 7.112093862735991
+Run 1129 - Episode finished after 22 timesteps
+Score: 3.456383444473577
+Run 1130 - Episode finished after 14 timesteps
+Score: 4.159220697210951
+Run 1131 - Episode finished after 14 timesteps
+Score: 4.397024666197414
+Run 1132 - Episode finished after 27 timesteps
+Score: 10.072069019474302
+Run 1133 - Episode finished after 17 timesteps
+Score: 5.503910935601121
+Run 1134 - Episode finished after 19 timesteps
+Score: 7.851671055168984
+Run 1135 - Episode finished after 14 timesteps
+Score: 3.6648804479467696
+Run 1136 - Episode finished after 32 timesteps
+Score: 14.858216472871067
+Run 1137 - Episode finished after 12 timesteps
+Score: 2.142390899489752
+Run 1138 - Episode finished after 16 timesteps
+Score: 3.3179544842563957
+Run 1139 - Episode finished after 16 timesteps
+Score: 2.463213537213547
+Run 1140 - Episode finished after 17 timesteps
+Score: 3.8381452471723074
+Run 1141 - Episode finished after 13 timesteps
+Score: 0.30675192383863403
+Run 1142 - Episode finished after 45 timesteps
+Score: 22.54748998301519
+Run 1143 - Episode finished after 45 timesteps
+Score: 1.1637260567265773
+Run 1144 - Episode finished after 13 timesteps
+Score: 1.619152389168408
+Run 1145 - Episode finished after 14 timesteps
+Score: 1.1943893796087344
+Run 1146 - Episode finished after 25 timesteps
+Score: 10.138996174999871
+Run 1147 - Episode finished after 29 timesteps
+Score: 5.574910834878079
+Run 1148 - Episode finished after 16 timesteps
+Score: 6.297672799331671
+Run 1149 - Episode finished after 63 timesteps
+Score: -2.6919197280568943
+Run 1150 - Episode finished after 23 timesteps
+Score: 3.327054345470905
+Run 1151 - Episode finished after 21 timesteps
+Score: 0.7879417586445782
+Run 1152 - Episode finished after 22 timesteps
+Score: 5.171323737082277
+Run 1153 - Episode finished after 17 timesteps
+Score: 1.46074472611302
+Run 1154 - Episode finished after 18 timesteps
+Score: 5.930972660096618
+Run 1155 - Episode finished after 67 timesteps
+Score: 24.10396282631673
+Run 1156 - Episode finished after 13 timesteps
+Score: 3.39638880142479
+Run 1157 - Episode finished after 13 timesteps
+Score: 3.73718639096721
+Run 1158 - Episode finished after 24 timesteps
+Score: 6.538746498848517
+Run 1159 - Episode finished after 12 timesteps
+Score: 1.6080875583295224
+Run 1160 - Episode finished after 19 timesteps
+Score: 3.775262316495324
+Run 1161 - Episode finished after 10 timesteps
+Score: 1.2332226008823242
+Run 1162 - Episode finished after 10 timesteps
+Score: 1.2758469901719791
+Run 1163 - Episode finished after 18 timesteps
+Score: 6.03079773492386
+Run 1164 - Episode finished after 20 timesteps
+Score: 4.8215398911433685
+Run 1165 - Episode finished after 16 timesteps
+Score: 4.382555138569569
+Run 1166 - Episode finished after 10 timesteps
+Score: 1.5345044535510834
+Run 1167 - Episode finished after 20 timesteps
+Score: 5.4239671336429005
+Run 1168 - Episode finished after 12 timesteps
+Score: 2.784932166489635
+Run 1169 - Episode finished after 13 timesteps
+Score: 3.2020344438332184
+Run 1170 - Episode finished after 24 timesteps
+Score: 4.347507429872074
+Run 1171 - Episode finished after 25 timesteps
+Score: 7.951708958520721
+Run 1172 - Episode finished after 19 timesteps
+Score: 3.0645949707141633
+Run 1173 - Episode finished after 14 timesteps
+Score: 1.8363224163304255
+Run 1174 - Episode finished after 13 timesteps
+Score: 1.349229086411793
+Run 1175 - Episode finished after 23 timesteps
+Score: 4.710031077638131
+Run 1176 - Episode finished after 18 timesteps
+Score: 3.262287440698521
+Run 1177 - Episode finished after 23 timesteps
+Score: 8.130955467667825
+Run 1178 - Episode finished after 15 timesteps
+Score: 2.277234041650356
+Run 1179 - Episode finished after 28 timesteps
+Score: 9.451289179489624
+Run 1180 - Episode finished after 14 timesteps
+Score: 2.789933538371314
+Run 1181 - Episode finished after 22 timesteps
+Score: 5.949633736514645
+Run 1182 - Episode finished after 32 timesteps
+Score: 14.855167565587292
+Run 1183 - Episode finished after 14 timesteps
+Score: 3.709501454368956
+Run 1184 - Episode finished after 19 timesteps
+Score: -0.43112444464006183
+Run 1185 - Episode finished after 24 timesteps
+Score: 8.495415615882537
+Run 1186 - Episode finished after 13 timesteps
+Score: 2.3749284733215683
+Run 1187 - Episode finished after 15 timesteps
+Score: 4.322551009625627
+Run 1188 - Episode finished after 20 timesteps
+Score: 5.807829355375366
+Run 1189 - Episode finished after 23 timesteps
+Score: 7.7049419955864735
+Run 1190 - Episode finished after 46 timesteps
+Score: 21.16458099600976
+Run 1191 - Episode finished after 23 timesteps
+Score: 7.428457465984327
+Run 1192 - Episode finished after 18 timesteps
+Score: 2.7408187382998426
+Run 1193 - Episode finished after 12 timesteps
+Score: 2.6054485152482907
+Run 1194 - Episode finished after 47 timesteps
+Score: 17.63459550830467
+Run 1195 - Episode finished after 21 timesteps
+Score: 4.082945936668735
+Run 1196 - Episode finished after 16 timesteps
+Score: 3.784250436669802
+Run 1197 - Episode finished after 55 timesteps
+Score: 15.178802560905538
+Run 1198 - Episode finished after 29 timesteps
+Score: 9.898937489601424
+Run 1199 - Episode finished after 28 timesteps
+Score: 12.110621885982592
+Updating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedUpdating WeightsModel savedRun 1200 - Episode finished after 11 timesteps
+Score: 2.8832803821663857
+Run 1201 - Episode finished after 11 timesteps
+Score: 2.774741909653791
+Run 1202 - Episode finished after 15 timesteps
+Score: 2.4424713804602796
+Run 1203 - Episode finished after 15 timesteps
+Score: 4.084847942592138
+Run 1204 - Episode finished after 20 timesteps
+Score: 6.914510271111337
+Run 1205 - Episode finished after 55 timesteps
+Score: 21.478444543427734
+Run 1206 - Episode finished after 19 timesteps
+Score: 4.697276173023662
+Run 1207 - Episode finished after 11 timesteps
+Score: 1.15452304053608
+Run 1208 - Episode finished after 17 timesteps
+Score: 4.794501619258817
+Run 1209 - Episode finished after 18 timesteps
+Score: 4.060255772478204
+Run 1210 - Episode finished after 27 timesteps
+Score: 5.889717800019125
+Run 1211 - Episode finished after 16 timesteps
+Score: 4.3599235102256095
+Run 1212 - Episode finished after 15 timesteps
+Score: 2.866537028163736
+Run 1213 - Episode finished after 14 timesteps
+Score: 3.040843055211514
+Run 1214 - Episode finished after 17 timesteps
+Score: 4.102544184039841
+Run 1215 - Episode finished after 11 timesteps
+Score: 3.187060787327159
+Run 1216 - Episode finished after 36 timesteps
+Score: 15.145895074114286
+Run 1217 - Episode finished after 31 timesteps
+Score: 9.152691461351097
+Run 1218 - Episode finished after 28 timesteps
+Score: 10.038411177238757
+Run 1219 - Episode finished after 16 timesteps
+Score: 5.254120928308064
+Run 1220 - Episode finished after 28 timesteps
+Score: 8.408905333719455
+Run 1221 - Episode finished after 93 timesteps
+Score: 39.39152058826876
+Run 1222 - Episode finished after 11 timesteps
+Score: 2.355220441467531
+Run 1223 - Episode finished after 34 timesteps
+Score: 6.1765323276970205
+Run 1224 - Episode finished after 13 timesteps
+Score: 2.5392544939395405
+Run 1225 - Episode finished after 15 timesteps
+Score: 3.0527792324565035
+Run 1226 - Episode finished after 48 timesteps
+Score: 15.127542613032677
+Run 1227 - Episode finished after 18 timesteps
+Score: 5.555633454488661
+Run 1228 - Episode finished after 26 timesteps
+Score: 12.07762792148555
+Run 1229 - Episode finished after 15 timesteps
+Score: 2.8917209418851026
+Run 1230 - Episode finished after 44 timesteps
+Score: 14.541542576196528
+Run 1231 - Episode finished after 39 timesteps
+Score: 16.149614264173408
+Run 1232 - Episode finished after 16 timesteps
+Score: 4.083045456637415
+Run 1233 - Episode finished after 24 timesteps
+Score: 7.268782533557654
+Run 1234 - Episode finished after 14 timesteps
+Score: 2.3825568185449253
+Run 1235 - Episode finished after 31 timesteps
+Score: 5.542234969217976
+Run 1236 - Episode finished after 11 timesteps
+Score: 1.0714758099536246
+Run 1237 - Episode finished after 15 timesteps
+Score: 3.362437424513443
+Run 1238 - Episode finished after 14 timesteps
+Score: 3.514698278359276
+Run 1239 - Episode finished after 37 timesteps
+Score: 8.080184401472
+Run 1240 - Episode finished after 14 timesteps
+Score: 4.32982992695023
+Run 1241 - Episode finished after 12 timesteps
+Score: 3.0296359283968854
+Run 1242 - Episode finished after 19 timesteps
+Score: 4.421606287969199
+Run 1243 - Episode finished after 16 timesteps
+Score: 3.445324902483868
+Run 1244 - Episode finished after 57 timesteps
+Score: 22.31684099631568
+Run 1245 - Episode finished after 25 timesteps
+Score: 7.49423707189328
+Run 1246 - Episode finished after 12 timesteps
+Score: 2.622750207787683
+Run 1247 - Episode finished after 13 timesteps
+Score: 3.7952819768988
+Run 1248 - Episode finished after 38 timesteps
+Score: 13.954454588105481
+Run 1249 - Episode finished after 42 timesteps
+Score: 11.891651799294795
+Run 1250 - Episode finished after 12 timesteps
+Score: 1.7446648248878436
+Run 1251 - Episode finished after 12 timesteps
+Score: 2.0649430343940915
+Run 1252 - Episode finished after 39 timesteps
+Score: 10.7108448129241
+Run 1253 - Episode finished after 33 timesteps
+Score: 10.147030395694511
+Run 1254 - Episode finished after 13 timesteps
+Score: 1.3474428361042614
+Run 1255 - Episode finished after 21 timesteps
+Score: 7.2132092956414215
+Run 1256 - Episode finished after 15 timesteps
+Score: 2.926567718983045
+Run 1257 - Episode finished after 12 timesteps
+Score: 2.2226638910181973
+Run 1258 - Episode finished after 28 timesteps
+Score: 9.973643888246375
+Run 1259 - Episode finished after 18 timesteps
+Score: 2.577868318689138
+Run 1260 - Episode finished after 23 timesteps
+Score: 4.08796940021712
+Run 1261 - Episode finished after 18 timesteps
+Score: 6.152772496299025
+Run 1262 - Episode finished after 17 timesteps
+Score: 5.228674479232062
+Run 1263 - Episode finished after 30 timesteps
+Score: 11.809242250501606
+Run 1264 - Episode finished after 22 timesteps
+Score: 6.483781448506476
+Run 1265 - Episode finished after 13 timesteps
+Score: 3.1255537341093955
+Run 1266 - Episode finished after 16 timesteps
+Score: 6.188698145954768
+Run 1267 - Episode finished after 17 timesteps
+Score: 1.9348078419955306
+Run 1268 - Episode finished after 24 timesteps
+Score: 6.996084325702121
+Run 1269 - Episode finished after 13 timesteps
+Score: 2.065447357526847
+Run 1270 - Episode finished after 30 timesteps
+Score: 7.327003855907608
+Run 1271 - Episode finished after 25 timesteps
+Score: 10.648760793012613
+Run 1272 - Episode finished after 11 timesteps
+Score: 1.7070698328998146
+Run 1273 - Episode finished after 23 timesteps
+Score: 8.187151325230682
+Run 1274 - Episode finished after 35 timesteps
+Score: 12.52154687501572
+Run 1275 - Episode finished after 19 timesteps
+Score: 5.274022693469025
+Run 1276 - Episode finished after 12 timesteps
+Score: 2.5731873229132605
+Run 1277 - Episode finished after 14 timesteps
+Score: 1.3871395954624322
+Run 1278 - Episode finished after 18 timesteps
+Score: 6.1455073477107955
+Run 1279 - Episode finished after 20 timesteps
+Score: 6.359529978092364
+Run 1280 - Episode finished after 31 timesteps
+Score: 12.138005870782798
+Run 1281 - Episode finished after 19 timesteps
+Score: 3.0504703424832798
+Run 1282 - Episode finished after 29 timesteps
+Score: 8.23125216472931
+Run 1283 - Episode finished after 22 timesteps
+Score: 6.645344580773978
+Run 1284 - Episode finished after 39 timesteps
+Score: 18.299063525417058
+Run 1285 - Episode finished after 29 timesteps
+Score: 3.845416680567334
