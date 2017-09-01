@@ -55,6 +55,7 @@ class DeepQNetwork:
         self.replace_target_op = [tf.assign(t, e) for t, e in zip(t_params, e_params)]
 
         self.sess = tf.Session()
+        self.saver = tf.train.Saver()
 
         if output_graph:
             # $ tensorboard --logdir=logs
@@ -63,6 +64,9 @@ class DeepQNetwork:
 
         self.sess.run(tf.global_variables_initializer())
         self.cost_his = []
+
+        self.saver.restore(self.sess, "save/model.ckpt")
+        print("Model restore")
 
     def _build_net(self):
         # ------------------ build evaluate_net ------------------
@@ -138,6 +142,8 @@ class DeepQNetwork:
         if self.learn_step_counter % self.replace_target_iter == 0:
             self.sess.run(self.replace_target_op)
             print('\ntarget_params_replaced\n')
+            self.saver.save(self.sess, "save/model.ckpt")
+            print("Model saved")
 
         # sample batch memory from all memory
         if self.memory_counter > self.memory_size:

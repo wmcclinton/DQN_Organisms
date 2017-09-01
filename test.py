@@ -1,13 +1,13 @@
 from Environment import Environment
 from RL_brain import DeepQNetwork
+import tensorflow as tf
 
 env = Environment()
 
 RL = DeepQNetwork(n_actions=5,
                   n_features=6,
                   learning_rate=0.01, reward_decay=1, e_greedy=0.9,
-                  replace_target_iter=100, memory_size=2000,
-                  e_greedy_increment=0.001,)
+                  replace_target_iter=100, memory_size=2000,)
 
 total_steps = 0
 
@@ -48,5 +48,4 @@ for i_episode in range(2000000):
         observation = observation_
         total_steps += 1
 
-        
 file.close() 

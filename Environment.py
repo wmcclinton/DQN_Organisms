@@ -9,8 +9,8 @@ else:
 
 
 UNIT = 40   # pixels
-ENV_H = 10  # grid height
-ENV_W = 10 # grid width
+ENV_H = 5  # grid height
+ENV_W = 5 # grid width
 
 
 class Environment(tk.Tk, object):
@@ -64,7 +64,7 @@ class Environment(tk.Tk, object):
 
     def reset(self):
         self.update()
-        time.sleep(0.5)
+        time.sleep(0.01)
         self.canvas.delete(self.rect)
         origin = np.array([UNIT/2, UNIT/2])
         self.rect = self.canvas.create_rectangle(
@@ -122,7 +122,7 @@ class Environment(tk.Tk, object):
         return np.array(state), reward, done
 
     def render(self):
-        time.sleep(0.1)
+        time.sleep(0.01)
         self.update()
 
     def move_food(self):
