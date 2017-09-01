@@ -1,6 +1,1 @@
 Run Data:
-episode: 0 ep_r: -26 epsilon: 0 timesteps: 26
-episode: 1 ep_r: -25 epsilon: 0 timesteps: 25
-episode: 2 ep_r: -25 epsilon: 0 timesteps: 25
-episode: 3 ep_r: -82 epsilon: 0 timesteps: 25
-episode: 4 ep_r: -25 epsilon: 0 timesteps: 25

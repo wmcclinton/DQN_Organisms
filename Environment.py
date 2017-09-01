@@ -79,7 +79,7 @@ class Environment(tk.Tk, object):
             self.move_hell()
 
         # return observation
-        return np.array(self.canvas.coords(self.rect) + self.canvas.coords(self.oval) + self.canvas.coords(self.hell1))
+        return np.array(self.canvas.coords(self.rect)[0:2] + self.canvas.coords(self.oval)[0:2] + self.canvas.coords(self.hell1)[0:2])
 
     def step(self, action):
         s = self.canvas.coords(self.rect)
@@ -100,7 +100,7 @@ class Environment(tk.Tk, object):
         self.canvas.move(self.rect, base_action[0], base_action[1])  # move agent
 
         s_ = self.canvas.coords(self.rect)  # next state
-        state = self.canvas.coords(self.rect) + self.canvas.coords(self.oval) + self.canvas.coords(self.hell1)
+        state = self.canvas.coords(self.rect)[0:2] + self.canvas.coords(self.oval)[0:2] + self.canvas.coords(self.hell1)[0:2]
 
         # reward function
         if s_ == self.canvas.coords(self.oval):
