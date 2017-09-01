@@ -1,6 +1,7 @@
 import numpy as np
 import time
 import sys
+from random import randint
 if sys.version_info.major == 2:
     import Tkinter as tk
 else:
@@ -39,16 +40,10 @@ class Environment(tk.Tk, object):
         origin = np.array([UNIT/2, UNIT/2])
 
         # hell
-        hell1_center = origin + np.array([UNIT * 2, UNIT])
+        hell1_center = origin + np.array([UNIT , UNIT])
         self.hell1 = self.canvas.create_rectangle(
             hell1_center[0] - (UNIT * 3 / 8), hell1_center[1] - (UNIT * 3 / 8),
             hell1_center[0] + (UNIT * 3 / 8), hell1_center[1] + (UNIT * 3 / 8),
-            fill='red')
-        # hell
-        hell2_center = origin + np.array([UNIT, UNIT * 2])
-        self.hell2 = self.canvas.create_rectangle(
-            hell2_center[0] - (UNIT * 3 / 8), hell2_center[1] - (UNIT * 3 / 8),
-            hell2_center[0] + (UNIT * 3 / 8), hell2_center[1] + (UNIT * 3 / 8),
             fill='red')
 
         # create food oval
@@ -76,8 +71,15 @@ class Environment(tk.Tk, object):
             origin[0] - (UNIT * 3 / 8), origin[1] - (UNIT * 3 / 8),
             origin[0] + (UNIT * 3 / 8), origin[1] + (UNIT * 3 / 8),
             fill='black')
+
+        self.move_food()
+        self.move_hell()
+        while self.canvas.coords(self.oval) == self.canvas.coords(self.hell1):
+            self.move_food()
+            self.move_hell()
+
         # return observation
-        return np.array(self.canvas.coords(self.rect) + self.canvas.coords(self.oval))
+        return np.array(self.canvas.coords(self.rect) + self.canvas.coords(self.oval) + self.canvas.coords(self.hell1))
 
     def step(self, action):
         s = self.canvas.coords(self.rect)
@@ -98,13 +100,13 @@ class Environment(tk.Tk, object):
         self.canvas.move(self.rect, base_action[0], base_action[1])  # move agent
 
         s_ = self.canvas.coords(self.rect)  # next state
-        state = self.canvas.coords(self.rect) + self.canvas.coords(self.oval)
+        state = self.canvas.coords(self.rect) + self.canvas.coords(self.oval) + self.canvas.coords(self.hell1)
 
         # reward function
         if s_ == self.canvas.coords(self.oval):
             reward = 100
             done = False
-        elif s_ in [self.canvas.coords(self.hell1), self.canvas.coords(self.hell2)]:
+        elif s_ == self.canvas.coords(self.hell1):
             reward = -20
             done = False
         else:
@@ -123,6 +125,23 @@ class Environment(tk.Tk, object):
         time.sleep(0.1)
         self.update()
 
+    def move_food(self):
+        self.canvas.delete(self.oval)
+        origin = np.array([UNIT/2, UNIT/2])
+        oval_center = origin + np.array([UNIT * randint(1, ENV_W - 2), UNIT * randint(1, ENV_H - 2)])
+        self.oval = self.canvas.create_oval(
+                oval_center[0] - (UNIT * 3 / 8), oval_center[1] - (UNIT * 3 / 8),
+                oval_center[0] + (UNIT * 3 / 8), oval_center[1] + (UNIT * 3 / 8),
+                fill='yellow')
+
+    def move_hell(self):
+        self.canvas.delete(self.hell1)
+        origin = np.array([UNIT/2, UNIT/2])
+        hell1_center = origin + np.array([UNIT * randint(1, ENV_W - 2), UNIT * randint(1, ENV_H - 2)])
+        self.hell1 = self.canvas.create_rectangle(
+            hell1_center[0] - (UNIT * 3 / 8), hell1_center[1] - (UNIT * 3 / 8),
+            hell1_center[0] + (UNIT * 3 / 8), hell1_center[1] + (UNIT * 3 / 8),
+            fill='red')
 
 def update():
     for t in range(10):
